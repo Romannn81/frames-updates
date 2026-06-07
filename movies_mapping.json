@@ -1,7 +1,6 @@
 {
   "movies": [
     { "folderName": "Matrix", "russianTitle": "Матрица" },
-    { "folderName": "The Dark Knight", "russianTitle": "Темный рыцарь" },
-    { "folderName": "The Shawshank Redemption", "russianTitle": "Побег из Шоушенка" }
+    { "folderName": "Inception", "russianTitle": "Начало" }
   ]
 }
