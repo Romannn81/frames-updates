@@ -1,6 +1,13 @@
 {
   "movies": [
     { "folderName": "Matrix", "russianTitle": "Матрица" },
-    { "folderName": "Inception", "russianTitle": "Начало" }
+    { "folderName": "Inception", "russianTitle": "Начало" },
+    { "folderName": "Fight Club", "russianTitle": "Бойцовский клуб" },
+    { "folderName": "Forrest Gump", "russianTitle": "Форест Гамп" },
+    { "folderName": "Leon", "russianTitle": "Леон"}
+    { "folderName": "Pulp Fiction", "russianTitle": "Крименальное чтиво" },
+    { "folderName": "The Dark Knight", "russianTitle": "Темный рыцарь" },
+    { "folderName": "The Godfather", "russianTitle": "Крестный отец" },
+    { "folderName": "Forrest Gump", "russianTitle": "Форест Гамп" }
   ]
 }
