@@ -1,12 +1,44 @@
 {
   "movies": [
-    { "folderName": "Matrix", "russianTitle": "Матрица" },
-    { "folderName": "Inception", "russianTitle": "Начало" },
-    { "folderName": "Fight Club", "russianTitle": "Бойцовский клуб" },
-    { "folderName": "Forrest Gump", "russianTitle": "Форест Гамп" },
-    { "folderName": "Leon", "russianTitle": "Леон"},
-    { "folderName": "Pulp Fiction", "russianTitle": "Крименальное чтиво" },
-    { "folderName": "The Dark Knight", "russianTitle": "Темный рыцарь" },
-    { "folderName": "The Godfather", "russianTitle": "Крестный отец" }
+    { 
+      "folderName": "Matrix", 
+      "russianTitle": "Матрица",
+      "englishTitle": "The Matrix"
+    },
+    { 
+      "folderName": "Inception", 
+      "russianTitle": "Начало",
+      "englishTitle": "Inception"
+    },
+    { 
+      "folderName": "Fight Club", 
+      "russianTitle": "Бойцовский клуб",
+      "englishTitle": "Fight Club"
+    },
+    { 
+      "folderName": "Forrest Gump", 
+      "russianTitle": "Форрест Гамп",
+      "englishTitle": "Forrest Gump"
+    },
+    { 
+      "folderName": "Leon", 
+      "russianTitle": "Леон",
+      "englishTitle": "Léon: The Professional"
+    },
+    { 
+      "folderName": "Pulp Fiction", 
+      "russianTitle": "Криминальное чтиво",
+      "englishTitle": "Pulp Fiction"
+    },
+    { 
+      "folderName": "The Dark Knight", 
+      "russianTitle": "Тёмный рыцарь",
+      "englishTitle": "The Dark Knight"
+    },
+    { 
+      "folderName": "The Godfather", 
+      "russianTitle": "Крёстный отец",
+      "englishTitle": "The Godfather"
+    }
   ]
 }
