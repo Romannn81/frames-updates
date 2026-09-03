@@ -1,408 +1,2004 @@
 {
   "movies": [
-    {"folderName": "A Beautiful Mind", "russianTitle": "Игры разума", "englishTitle": "A Beautiful Mind"},
-    {"folderName": "A Star Is Born", "russianTitle": "Звезда родилась", "englishTitle": "A Star Is Born"},
-    {"folderName": "Alien", "russianTitle": "Чужой", "englishTitle": "Alien"},
-    {"folderName": "Angels and Demons", "russianTitle": "Ангелы и демоны", "englishTitle": "Angels & Demons"},
-    {"folderName": "Back to the Future", "russianTitle": "Назад в будущее", "englishTitle": "Back to the Future"},
-    {"folderName": "Bohemian Rhapsody", "russianTitle": "Богемская рапсодия", "englishTitle": "Bohemian Rhapsody"},
-    {"folderName": "Braveheart", "russianTitle": "Храброе сердце", "englishTitle": "Braveheart"},
-    {"folderName": "Cars", "russianTitle": "Тачки", "englishTitle": "Cars"},
-    {"folderName": "Casino", "russianTitle": "Казино", "englishTitle": "Casino"},
-    {"folderName": "Cast Away", "russianTitle": "Изгой", "englishTitle": "Cast Away"},
-    {"folderName": "Catch Me If You Can", "russianTitle": "Поймай меня, если сможешь", "englishTitle": "Catch Me If You Can"},
-    {"folderName": "Coco", "russianTitle": "Тайна Коко", "englishTitle": "Coco"},
-    {"folderName": "Dead Poets Society", "russianTitle": "Общество мёртвых поэтов", "englishTitle": "Dead Poets Society"},
-    {"folderName": "Die Hard", "russianTitle": "Крепкий орешек", "englishTitle": "Die Hard"},
-    {"folderName": "Django Unchained", "russianTitle": "Джанго освобождённый", "englishTitle": "Django Unchained"},
-    {"folderName": "E.T", "russianTitle": "Инопланетянин", "englishTitle": "E.T. the Extra-Terrestrial"},
-    {"folderName": "Fight Club", "russianTitle": "Бойцовский клуб", "englishTitle": "Fight Club"},
-    {"folderName": "Finding Nemo", "russianTitle": "В поисках Немо", "englishTitle": "Finding Nemo"},
-    {"folderName": "Forrest Gump", "russianTitle": "Форрест Гамп", "englishTitle": "Forrest Gump"},
-    {"folderName": "Frozen", "russianTitle": "Холодное сердце", "englishTitle": "Frozen"},
-    {"folderName": "Ghostbusters", "russianTitle": "Охотники за привидениями", "englishTitle": "Ghostbusters"},
-    {"folderName": "Gladiator", "russianTitle": "Гладиатор", "englishTitle": "Gladiator"},
-    {"folderName": "Godzilla", "russianTitle": "Годзилла", "englishTitle": "Godzilla"},
-    {"folderName": "Gone Girl", "russianTitle": "Исчезнувшая", "englishTitle": "Gone Girl"},
-    {"folderName": "Good Will Hunting", "russianTitle": "Умница Уилл Хантинг", "englishTitle": "Good Will Hunting"},
-    {"folderName": "Goodfellas", "russianTitle": "Славные парни", "englishTitle": "Goodfellas"},
-    {"folderName": "Harry Potter", "russianTitle": "Гарри Поттер", "englishTitle": "Harry Potter"},
-    {"folderName": "Home Alone", "russianTitle": "Один дома", "englishTitle": "Home Alone"},
-    {"folderName": "Inception", "russianTitle": "Начало", "englishTitle": "Inception"},
-    {"folderName": "Indiana Jones", "russianTitle": "Индиана Джонс", "englishTitle": "Indiana Jones"},
-    {"folderName": "Inferno", "russianTitle": "Инферно", "englishTitle": "Inferno"},
-    {"folderName": "Inglourious Basterds", "russianTitle": "Бесславные ублюдки", "englishTitle": "Inglourious Basterds"},
-    {"folderName": "Interstellar", "russianTitle": "Интерстеллар", "englishTitle": "Interstellar"},
-    {"folderName": "James Bond", "russianTitle": "Джеймс Бонд", "englishTitle": "James Bond"},
-    {"folderName": "Jaws", "russianTitle": "Челюсти", "englishTitle": "Jaws"},
-    {"folderName": "John Wick", "russianTitle": "Джон Уик", "englishTitle": "John Wick"},
-    {"folderName": "Jurassic Park", "russianTitle": "Парк Юрского периода", "englishTitle": "Jurassic Park"},
-    {"folderName": "Kill Bill", "russianTitle": "Убить Билла", "englishTitle": "Kill Bill"},
-    {"folderName": "King Kong", "russianTitle": "Кинг-Конг", "englishTitle": "King Kong"},
-    {"folderName": "La La Land", "russianTitle": "Ла-Ла Ленд", "englishTitle": "La La Land"},
-    {"folderName": "Mad Max Fury Road", "russianTitle": "Безумный Макс: Дорога ярости", "englishTitle": "Mad Max: Fury Road"},
-    {"folderName": "Matrix", "russianTitle": "Матрица", "englishTitle": "The Matrix"},
-    {"folderName": "Memento", "russianTitle": "Помни", "englishTitle": "Memento"},
-    {"folderName": "Mission Impossible", "russianTitle": "Миссия невыполнима", "englishTitle": "Mission: Impossible"},
-    {"folderName": "Monsters Inc", "russianTitle": "Корпорация монстров", "englishTitle": "Monsters, Inc."},
-    {"folderName": "National Treasure", "russianTitle": "Сокровище нации", "englishTitle": "National Treasure"},
-    {"folderName": "No Country for Old Men", "russianTitle": "Старикам тут не место", "englishTitle": "No Country for Old Men"},
-    {"folderName": "Once Upon a Time in Hollywood", "russianTitle": "Однажды в Голливуде", "englishTitle": "Once Upon a Time in Hollywood"},
-    {"folderName": "Pacific Rim", "russianTitle": "Тихоокеанский рубеж", "englishTitle": "Pacific Rim"},
-    {"folderName": "Pirates of the Caribbean", "russianTitle": "Пираты Карибского моря", "englishTitle": "Pirates of the Caribbean"},
-    {"folderName": "Predator", "russianTitle": "Хищник", "englishTitle": "Predator"},
-    {"folderName": "Prisoners", "russianTitle": "Пленницы", "englishTitle": "Prisoners"},
-    {"folderName": "Pulp Fiction", "russianTitle": "Криминальное чтиво", "englishTitle": "Pulp Fiction"},
-    {"folderName": "Rambo", "russianTitle": "Рэмбо", "englishTitle": "Rambo"},
-    {"folderName": "Ratatouille", "russianTitle": "Рататуй", "englishTitle": "Ratatouille"},
-    {"folderName": "Reservoir Dogs", "russianTitle": "Бешеные псы", "englishTitle": "Reservoir Dogs"},
-    {"folderName": "Rocketman", "russianTitle": "Рокетмен", "englishTitle": "Rocketman"},
-    {"folderName": "Rocky", "russianTitle": "Рокки", "englishTitle": "Rocky"},
-    {"folderName": "Saving Private Ryan", "russianTitle": "Спасти рядового Райана", "englishTitle": "Saving Private Ryan"},
-    {"folderName": "Schindlers List", "russianTitle": "Список Шиндлера", "englishTitle": "Schindler's List"},
-    {"folderName": "Se7en", "russianTitle": "Семь", "englishTitle": "Se7en"},
-    {"folderName": "Shrek", "russianTitle": "Шрек", "englishTitle": "Shrek"},
-    {"folderName": "Shutter Island", "russianTitle": "Остров проклятых", "englishTitle": "Shutter Island"},
-    {"folderName": "Sicario", "russianTitle": "Убийца", "englishTitle": "Sicario"},
-    {"folderName": "Star Wars", "russianTitle": "Звёздные войны: Новая надежда", "englishTitle": "Star Wars A New Hope"},
-    {"folderName": "Star Wars The Force Awakens", "russianTitle": "Звёздные войны: Пробуждение силы", "englishTitle": "Star Wars The Force Awakens"},
-    {"folderName": "Taken", "russianTitle": "Заложница", "englishTitle": "Taken"},
-    {"folderName": "Terminator 2", "russianTitle": "Терминатор 2", "englishTitle": "Terminator 2: Judgment Day"},
-    {"folderName": "The Avengers", "russianTitle": "Мстители", "englishTitle": "The Avengers"},
-    {"folderName": "The Bourne Identity", "russianTitle": "Идентификация Борна", "englishTitle": "The Bourne Identity"},
-    {"folderName": "The Da Vinci Code", "russianTitle": "Код да Винчи", "englishTitle": "The Da Vinci Code"},
-    {"folderName": "The Dark Knight", "russianTitle": "Тёмный рыцарь", "englishTitle": "The Dark Knight"},
-    {"folderName": "The Departed", "russianTitle": "Отступники", "englishTitle": "The Departed"},
-    {"folderName": "The Equalizer", "russianTitle": "Великий уравнитель", "englishTitle": "The Equalizer"},
-    {"folderName": "The Fast and the Furious", "russianTitle": "Форсаж", "englishTitle": "The Fast and the Furious"},
-    {"folderName": "The Fault in Our Stars", "russianTitle": "Виноваты звёзды", "englishTitle": "The Fault in Our Stars"},
-    {"folderName": "The Godfather", "russianTitle": "Крёстный отец", "englishTitle": "The Godfather"},
-    {"folderName": "The Green Mile", "russianTitle": "Зелёная миля", "englishTitle": "The Green Mile"},
-    {"folderName": "The Hateful Eight", "russianTitle": "Омерзительная восьмёрка", "englishTitle": "The Hateful Eight"},
-    {"folderName": "The Imitation Game", "russianTitle": "Игра в имитацию", "englishTitle": "The Imitation Game"},
-    {"folderName": "The Incredibles", "russianTitle": "Суперсемейка", "englishTitle": "The Incredibles"},
-    {"folderName": "The Lion King", "russianTitle": "Король Лев", "englishTitle": "The Lion King"},
-    {"folderName": "The Lord of the Rings", "russianTitle": "Властелин колец", "englishTitle": "The Lord of the Rings"},
-    {"folderName": "The Mummy", "russianTitle": "Мумия", "englishTitle": "The Mummy"},
-    {"folderName": "The Notebook", "russianTitle": "Дневник памяти", "englishTitle": "The Notebook"},
-    {"folderName": "The Prestige", "russianTitle": "Престиж", "englishTitle": "The Prestige"},
-    {"folderName": "The Revenant", "russianTitle": "Выживший", "englishTitle": "The Revenant"},
-    {"folderName": "The Shawshank Redemption", "russianTitle": "Побег из Шоушенка", "englishTitle": "The Shawshank Redemption"},
-    {"folderName": "The Silence of the Lambs", "russianTitle": "Молчание ягнят", "englishTitle": "The Silence of the Lambs"},
-    {"folderName": "The Terminal", "russianTitle": "Терминал", "englishTitle": "The Terminal"},
-    {"folderName": "The Theory of Everything", "russianTitle": "Теория всего", "englishTitle": "The Theory of Everything"},
-    {"folderName": "The Truman Show", "russianTitle": "Шоу Трумана", "englishTitle": "The Truman Show"},
-    {"folderName": "The Usual Suspects", "russianTitle": "Подозрительные лица", "englishTitle": "The Usual Suspects"},
-    {"folderName": "The Wolf of Wall Street", "russianTitle": "Волк с Уолл-стрит", "englishTitle": "The Wolf of Wall Street"},
-    {"folderName": "There Will Be Blood", "russianTitle": "Нефть", "englishTitle": "There Will Be Blood"},
-    {"folderName": "Titanic", "russianTitle": "Титаник", "englishTitle": "Titanic"},
-    {"folderName": "Toy Story", "russianTitle": "История игрушек", "englishTitle": "Toy Story"},
-    {"folderName": "Transformers", "russianTitle": "Трансформеры", "englishTitle": "Transformers"},
-    {"folderName": "Up", "russianTitle": "Вверх", "englishTitle": "Up"},
-    {"folderName": "WALL-E", "russianTitle": "ВАЛЛ-И", "englishTitle": "WALL-E"},
-    {"folderName": "Zodiac", "russianTitle": "Зодиак", "englishTitle": "Zodiac"},
-
-    {"folderName": "1917", "russianTitle": "1917", "englishTitle": "1917"},
-    {"folderName": "28 Days Later", "russianTitle": "28 дней спустя", "englishTitle": "28 Days Later"},
-    {"folderName": "A Nightmare on Elm Street", "russianTitle": "Кошмар на улице Вязов", "englishTitle": "A Nightmare on Elm Street"},
-    {"folderName": "A Quiet Place", "russianTitle": "Тихое место", "englishTitle": "A Quiet Place"},
-    {"folderName": "A Separation", "russianTitle": "Развод Надера и Симин", "englishTitle": "A Separation"},
-    {"folderName": "American Beauty", "russianTitle": "Красота по-американски", "englishTitle": "American Beauty"},
-    {"folderName": "Amour", "russianTitle": "Любовь", "englishTitle": "Amour"},
-    {"folderName": "Anchorman", "russianTitle": "Телеведущий", "englishTitle": "Anchorman: The Legend of Ron Burgundy"},
-    {"folderName": "Armageddon", "russianTitle": "Армагеддон", "englishTitle": "Armageddon"},
-    {"folderName": "Arrival", "russianTitle": "Прибытие", "englishTitle": "Arrival"},
-    {"folderName": "Avatar", "russianTitle": "Аватар", "englishTitle": "Avatar"},
-    {"folderName": "Bad Boys", "russianTitle": "Плохие парни", "englishTitle": "Bad Boys"},
-    {"folderName": "Birdman", "russianTitle": "Бёрдмэн", "englishTitle": "Birdman"},
-    {"folderName": "Blade Runner", "russianTitle": "Бегущий по лезвию", "englishTitle": "Blade Runner"},
-    {"folderName": "Clueless", "russianTitle": "Бестолковые", "englishTitle": "Clueless"},
-    {"folderName": "Con Air", "russianTitle": "Воздушная тюрьма", "englishTitle": "Con Air"},
-    {"folderName": "Dawn of the Dead", "russianTitle": "Рассвет мертвецов", "englishTitle": "Dawn of the Dead"},
-    {"folderName": "Dirty Dancing", "russianTitle": "Грязные танцы", "englishTitle": "Dirty Dancing"},
-    {"folderName": "District 9", "russianTitle": "Район №9", "englishTitle": "District 9"},
-    {"folderName": "Downfall", "russianTitle": "Бункер", "englishTitle": "Downfall"},
-    {"folderName": "Dune", "russianTitle": "Дюна", "englishTitle": "Dune"},
-    {"folderName": "Dunkirk", "russianTitle": "Дюнкерк", "englishTitle": "Dunkirk"},
-    {"folderName": "Edge of Tomorrow", "russianTitle": "Грань будущего", "englishTitle": "Edge of Tomorrow"},
-    {"folderName": "Face Off", "russianTitle": "Без лица", "englishTitle": "Face/Off"},
-    {"folderName": "Ferris Bueller's Day Off", "russianTitle": "Выходной день Ферриса Бьюллера", "englishTitle": "Ferris Bueller's Day Off"},
-    {"folderName": "Friday the 13th", "russianTitle": "Пятница, 13-е", "englishTitle": "Friday the 13th"},
-    {"folderName": "Fury", "russianTitle": "Ярость", "englishTitle": "Fury"},
-    {"folderName": "Get Out", "russianTitle": "Прочь", "englishTitle": "Get Out"},
-    {"folderName": "Ghost", "russianTitle": "Привидение", "englishTitle": "Ghost"},
-    {"folderName": "Hacksaw Ridge", "russianTitle": "По соображениям совести", "englishTitle": "Hacksaw Ridge"},
-    {"folderName": "Halloween", "russianTitle": "Хэллоуин", "englishTitle": "Halloween"},
-    {"folderName": "Hereditary", "russianTitle": "Реинкарнация", "englishTitle": "Hereditary"},
-    {"folderName": "I Am Legend", "russianTitle": "Я — легенда", "englishTitle": "I Am Legend"},
-    {"folderName": "Independence Day", "russianTitle": "День независимости", "englishTitle": "Independence Day"},
-    {"folderName": "Insidious", "russianTitle": "Астрал", "englishTitle": "Insidious"},
-    {"folderName": "It", "russianTitle": "Оно", "englishTitle": "It"},
-    {"folderName": "It Follows", "russianTitle": "Оно следует", "englishTitle": "It Follows"},
-    {"folderName": "Joker", "russianTitle": "Джокер", "englishTitle": "Joker"},
-    {"folderName": "Legally Blonde", "russianTitle": "Блондинка в законе", "englishTitle": "Legally Blonde"},
-    {"folderName": "Lethal Weapon", "russianTitle": "Смертельное оружие", "englishTitle": "Lethal Weapon"},
-    {"folderName": "Life of Pi", "russianTitle": "Жизнь Пи", "englishTitle": "Life of Pi"},
-    {"folderName": "Mean Girls", "russianTitle": "Дрянные девчонки", "englishTitle": "Mean Girls"},
-    {"folderName": "Men in Black", "russianTitle": "Люди в чёрном", "englishTitle": "Men in Black"},
-    {"folderName": "Midsommar", "russianTitle": "Солнцестояние", "englishTitle": "Midsommar"},
-    {"folderName": "Moonlight", "russianTitle": "Лунный свет", "englishTitle": "Moonlight"},
-    {"folderName": "Oblivion", "russianTitle": "Обливион", "englishTitle": "Oblivion"},
-    {"folderName": "Old School", "russianTitle": "Старая закалка", "englishTitle": "Old School"},
-    {"folderName": "Pan's Labyrinth", "russianTitle": "Лабиринт Фавна", "englishTitle": "Pan's Labyrinth"},
-    {"folderName": "Parasite", "russianTitle": "Паразиты", "englishTitle": "Parasite"},
-    {"folderName": "Philadelphia", "russianTitle": "Филадельфия", "englishTitle": "Philadelphia"},
-    {"folderName": "Point Break", "russianTitle": "На гребне волны", "englishTitle": "Point Break"},
-    {"folderName": "Pretty in Pink", "russianTitle": "Красотка в розовом", "englishTitle": "Pretty in Pink"},
-    {"folderName": "Rain Man", "russianTitle": "Человек дождя", "englishTitle": "Rain Man"},
-    {"folderName": "Roma", "russianTitle": "Рома", "englishTitle": "Roma"},
-    {"folderName": "Saw", "russianTitle": "Пила", "englishTitle": "Saw"},
-    {"folderName": "Scent of a Woman", "russianTitle": "Запах женщины", "englishTitle": "Scent of a Woman"},
-    {"folderName": "Scream", "russianTitle": "Крик", "englishTitle": "Scream"},
-    {"folderName": "Shaun of the Dead", "russianTitle": "Зомби по имени Шон", "englishTitle": "Shaun of the Dead"},
-    {"folderName": "Sixteen Candles", "russianTitle": "Шестнадцать свечей", "englishTitle": "Sixteen Candles"},
-    {"folderName": "Sleepless in Seattle", "russianTitle": "Неспящие в Сиэтле", "englishTitle": "Sleepless in Seattle"},
-    {"folderName": "Slumdog Millionaire", "russianTitle": "Миллионер из трущоб", "englishTitle": "Slumdog Millionaire"},
-    {"folderName": "Speed", "russianTitle": "Скорость", "englishTitle": "Speed"},
-    {"folderName": "Split", "russianTitle": "Сплит", "englishTitle": "Split"},
-    {"folderName": "Spotlight", "russianTitle": "В центре внимания", "englishTitle": "Spotlight"},
-    {"folderName": "Star Wars Rogue One", "russianTitle": "Звёздные войны: Изгой-один", "englishTitle": "Star Wars Rogue One"},
-    {"folderName": "Star Wars Solo", "russianTitle": "Звёздные войны: Хан Соло", "englishTitle": "Star Wars Solo"},
-    {"folderName": "Step Brothers", "russianTitle": "Сводные братья", "englishTitle": "Step Brothers"},
-    {"folderName": "Superbad", "russianTitle": "СуперПерцы", "englishTitle": "Superbad"},
-    {"folderName": "Tenet", "russianTitle": "Довод", "englishTitle": "Tenet"},
-    {"folderName": "The Babadook", "russianTitle": "Бабадук", "englishTitle": "The Babadook"},
-    {"folderName": "The Big Lebowski", "russianTitle": "Большой Лебовски", "englishTitle": "The Big Lebowski"},
-    {"folderName": "The Bourne Ultimatum", "russianTitle": "Ультиматум Борна", "englishTitle": "The Bourne Ultimatum"},
-    {"folderName": "The Breakfast Club", "russianTitle": "Клуб «Завтрак»", "englishTitle": "The Breakfast Club"},
-    {"folderName": "The Chronicles of Narnia", "russianTitle": "Хроники Нарнии", "englishTitle": "The Chronicles of Narnia"},
-    {"folderName": "The Color Purple", "russianTitle": "Цветы лиловые полей", "englishTitle": "The Color Purple"},
-    {"folderName": "The Conjuring", "russianTitle": "Заклятие", "englishTitle": "The Conjuring"},
-    {"folderName": "The Curious Case of Benjamin Button", "russianTitle": "Загадочная история Бенджамина Баттона", "englishTitle": "The Curious Case of Benjamin Button"},
-    {"folderName": "The Day After Tomorrow", "russianTitle": "Послезавтра", "englishTitle": "The Day After Tomorrow"},
-    {"folderName": "The Descent", "russianTitle": "Спуск", "englishTitle": "The Descent"},
-    {"folderName": "The Exorcist", "russianTitle": "Изгоняющий дьявола", "englishTitle": "The Exorcist"},
-    {"folderName": "The Fifth Element", "russianTitle": "Пятый элемент", "englishTitle": "The Fifth Element"},
-    {"folderName": "The Grand Budapest Hotel", "russianTitle": "Отель «Гранд Будапешт»", "englishTitle": "The Grand Budapest Hotel"},
-    {"folderName": "The Grudge", "russianTitle": "Проклятие", "englishTitle": "The Grudge"},
-    {"folderName": "The Hangover", "russianTitle": "Мальчишник в Вегасе", "englishTitle": "The Hangover"},
-    {"folderName": "The Hunger Games", "russianTitle": "Голодные игры", "englishTitle": "The Hunger Games"},
-    {"folderName": "The Life Aquatic with Steve Zissou", "russianTitle": "Водная жизнь", "englishTitle": "The Life Aquatic with Steve Zissou"},
-    {"folderName": "The Lives of Others", "russianTitle": "Жизнь других", "englishTitle": "The Lives of Others"},
-    {"folderName": "The Pianist", "russianTitle": "Пианист", "englishTitle": "The Pianist"},
-    {"folderName": "The Princess Bride", "russianTitle": "Принцесса-невеста", "englishTitle": "The Princess Bride"},
-    {"folderName": "The Pursuit of Happyness", "russianTitle": "В погоне за счастьем", "englishTitle": "The Pursuit of Happyness"},
-    {"folderName": "The Rock", "russianTitle": "Скала", "englishTitle": "The Rock"},
-    {"folderName": "The Shape of Water", "russianTitle": "Форма воды", "englishTitle": "The Shape of Water"},
-    {"folderName": "The Sixth Sense", "russianTitle": "Шестое чувство", "englishTitle": "The Sixth Sense"},
-    {"folderName": "Train to Busan", "russianTitle": "Поезд в Пусан", "englishTitle": "Train to Busan"},
-    {"folderName": "Us", "russianTitle": "Мы", "englishTitle": "Us"},
-    {"folderName": "Wedding Crashers", "russianTitle": "Незваные гости", "englishTitle": "Wedding Crashers"},
-    {"folderName": "When Harry Met Sally", "russianTitle": "Когда Гарри встретил Салли", "englishTitle": "When Harry Met Sally"},
-    {"folderName": "World War Z", "russianTitle": "Война миров Z", "englishTitle": "World War Z"},
-    {"folderName": "You've Got Mail", "russianTitle": "У вас письмо", "englishTitle": "You've Got Mail"},
-    {"folderName": "Zombieland", "russianTitle": "Добро пожаловать в Zомбилэнд", "englishTitle": "Zombieland"},
-
-    {"folderName": "65", "russianTitle": "65: После Земли", "englishTitle": "65"},
-    {"folderName": "Aladdin", "russianTitle": "Аладдин", "englishTitle": "Aladdin"},
-    {"folderName": "Alice in Wonderland", "russianTitle": "Алиса в Стране чудес", "englishTitle": "Alice in Wonderland"},
-    {"folderName": "Alita_ Battle Angel", "russianTitle": "Алита: Боевой ангел", "englishTitle": "Alita: Battle Angel"},
-    {"folderName": "American Sniper", "russianTitle": "Американский снайпер", "englishTitle": "American Sniper"},
-    {"folderName": "Aquaman", "russianTitle": "Аквамен", "englishTitle": "Aquaman"},
-    {"folderName": "Argo", "russianTitle": "Операция «Арго»", "englishTitle": "Argo"},
-    {"folderName": "Army of the Dead", "russianTitle": "Армия мертвецов", "englishTitle": "Army of the Dead"},
-    {"folderName": "Barbie", "russianTitle": "Барби", "englishTitle": "Barbie"},
-    {"folderName": "Beauty and the Beast", "russianTitle": "Красавица и Чудовище", "englishTitle": "Beauty and the Beast"},
-    {"folderName": "Birds of Prey", "russianTitle": "Хищные птицы", "englishTitle": "Birds of Prey"},
-    {"folderName": "Black Panther", "russianTitle": "Чёрная пантера", "englishTitle": "Black Panther"},
-    {"folderName": "Blade Runner 2049", "russianTitle": "Бегущий по лезвию 2049", "englishTitle": "Blade Runner 2049"},
-    {"folderName": "Changeling", "russianTitle": "Подмена", "englishTitle": "Changeling"},
-    {"folderName": "Chicago", "russianTitle": "Чикаго", "englishTitle": "Chicago"},
-    {"folderName": "Cruella", "russianTitle": "Круэлла", "englishTitle": "Cruella"},
-    {"folderName": "Cry Macho", "russianTitle": "Мужские слёзы", "englishTitle": "Cry Macho"},
-    {"folderName": "Deadpool", "russianTitle": "Дэдпул", "englishTitle": "Deadpool"},
-    {"folderName": "Don't Look Up", "russianTitle": "Не смотрите наверх", "englishTitle": "Don't Look Up"},
-    {"folderName": "Dreamgirls", "russianTitle": "Мечтательницы", "englishTitle": "Dreamgirls"},
-    {"folderName": "Elemental", "russianTitle": "Элементарно", "englishTitle": "Elemental"},
-    {"folderName": "Elvis", "russianTitle": "Элвис", "englishTitle": "Elvis"},
-    {"folderName": "Encanto", "russianTitle": "Энканто", "englishTitle": "Encanto"},
-    {"folderName": "Everything Everywhere All at Once", "russianTitle": "Всё везде и сразу", "englishTitle": "Everything Everywhere All at Once"},
-    {"folderName": "Extraction", "russianTitle": "Тайлер Рейк: Операция по спасению", "englishTitle": "Extraction"},
-    {"folderName": "Free Guy", "russianTitle": "Главный герой", "englishTitle": "Free Guy"},
-    {"folderName": "Furiosa_ A Mad Max Saga", "russianTitle": "Фуриоса: Сага о Безумном Максе", "englishTitle": "Furiosa: A Mad Max Saga"},
-    {"folderName": "Godzilla vs. Kong", "russianTitle": "Годзилла против Конга", "englishTitle": "Godzilla vs. Kong"},
-    {"folderName": "Gone Baby Gone", "russianTitle": "Прощай, детка, прощай", "englishTitle": "Gone Baby Gone"},
-    {"folderName": "Gran Torino", "russianTitle": "Гран Торино", "englishTitle": "Gran Torino"},
-    {"folderName": "Gran Turismo", "russianTitle": "Gran Turismo: Лучшая гонка в жизни", "englishTitle": "Gran Turismo"},
-    {"folderName": "Guardians of the Galaxy", "russianTitle": "Стражи Галактики", "englishTitle": "Guardians of the Galaxy"},
-    {"folderName": "Heart of Stone", "russianTitle": "Каменное сердце", "englishTitle": "Heart of Stone"},
-    {"folderName": "Hell or High Water", "russianTitle": "Любой ценой", "englishTitle": "Hell or High Water"},
-    {"folderName": "Inherent Vice", "russianTitle": "Врождённый порок", "englishTitle": "Inherent Vice"},
-    {"folderName": "Into the Woods", "russianTitle": "Чем дальше в лес", "englishTitle": "Into the Woods"},
-    {"folderName": "Iron Man", "russianTitle": "Железный человек", "englishTitle": "Iron Man"},
-    {"folderName": "J. Edgar", "russianTitle": "Дж. Эдгар", "englishTitle": "J. Edgar"},
-    {"folderName": "Jack the Giant Slayer", "russianTitle": "Джек — покоритель великанов", "englishTitle": "Jack the Giant Slayer"},
-    {"folderName": "Jungle Cruise", "russianTitle": "Круиз по джунглям", "englishTitle": "Jungle Cruise"},
-    {"folderName": "Killers of the Flower Moon", "russianTitle": "Убийцы цветочной луны", "englishTitle": "Killers of the Flower Moon"},
-    {"folderName": "Kingdom of the Planet of the Apes", "russianTitle": "Планета обезьян: Новое царство", "englishTitle": "Kingdom of the Planet of the Apes"},
-    {"folderName": "Kong_ Skull Island", "russianTitle": "Конг: Остров черепа", "englishTitle": "Kong: Skull Island"},
-    {"folderName": "Les Miserables", "russianTitle": "Отверженные", "englishTitle": "Les Misérables"},
-    {"folderName": "Licorice Pizza", "russianTitle": "Лакричная пицца", "englishTitle": "Licorice Pizza"},
-    {"folderName": "Lightyear", "russianTitle": "Базз Лайтер", "englishTitle": "Lightyear"},
-    {"folderName": "Logan", "russianTitle": "Логан", "englishTitle": "Logan"},
-    {"folderName": "Luca", "russianTitle": "Лука", "englishTitle": "Luca"},
-    {"folderName": "Maleficent", "russianTitle": "Малефисента", "englishTitle": "Maleficent"},
-    {"folderName": "Mary Poppins Returns", "russianTitle": "Мэри Поппинс возвращается", "englishTitle": "Mary Poppins Returns"},
-    {"folderName": "Moulin Rouge!", "russianTitle": "Мулен Руж!", "englishTitle": "Moulin Rouge!"},
-    {"folderName": "Mystic River", "russianTitle": "Таинственная река", "englishTitle": "Mystic River"},
-    {"folderName": "Napoleon", "russianTitle": "Наполеон", "englishTitle": "Napoleon"},
-    {"folderName": "Nightcrawler", "russianTitle": "Стрингер", "englishTitle": "Nightcrawler"},
-    {"folderName": "Nope", "russianTitle": "Нет", "englishTitle": "Nope"},
-    {"folderName": "Onward", "russianTitle": "Вперёд", "englishTitle": "Onward"},
-    {"folderName": "Operation Fortune Ruse de Guerre", "russianTitle": "Операция «Фортуна»: Искусство побеждать", "englishTitle": "Operation Fortune: Ruse de Guerre"},
-    {"folderName": "Oppenheimer", "russianTitle": "Оппенгеймер", "englishTitle": "Oppenheimer"},
-    {"folderName": "Oz the Great and Powerful", "russianTitle": "Оз: Великий и Ужасный", "englishTitle": "Oz the Great and Powerful"},
-    {"folderName": "Pan", "russianTitle": "Пэн: Путешествие в Нетландию", "englishTitle": "Pan"},
-    {"folderName": "Peter Pan & Wendy", "russianTitle": "Питер Пэн и Венди", "englishTitle": "Peter Pan & Wendy"},
-    {"folderName": "Phantom Thread", "russianTitle": "Призрачная нить", "englishTitle": "Phantom Thread"},
-    {"folderName": "Pinocchio", "russianTitle": "Пиноккио", "englishTitle": "Pinocchio"},
-    {"folderName": "Predator", "russianTitle": "Хищник", "englishTitle": "Predator"},
-    {"folderName": "Project Power", "russianTitle": "Проект «Сила»", "englishTitle": "Project Power"},
-    {"folderName": "Raya and the Last Dragon", "russianTitle": "Райя и последний дракон", "englishTitle": "Raya and the Last Dragon"},
-    {"folderName": "Ready Player One", "russianTitle": "Первому игроку приготовиться", "englishTitle": "Ready Player One"},
-    {"folderName": "Rebel Moon", "russianTitle": "Мятежная луна", "englishTitle": "Rebel Moon"},
-    {"folderName": "Red Notice", "russianTitle": "Красное уведомление", "englishTitle": "Red Notice"},
-    {"folderName": "Richard Jewell", "russianTitle": "Ричард Джуэлл", "englishTitle": "Richard Jewell"},
-    {"folderName": "Shazam!", "russianTitle": "Шазам!", "englishTitle": "Shazam!"},
-    {"folderName": "Soul", "russianTitle": "Душа", "englishTitle": "Soul"},
-    {"folderName": "Spider-Man", "russianTitle": "Человек-паук", "englishTitle": "Spider-Man"},
-    {"folderName": "Star Wars The Empire Strikes Back", "russianTitle": "Звёздные войны: Империя наносит ответный удар", "englishTitle": "Star Wars The Empire Strikes Back"},
-    {"folderName": "Star Wars The Rise of Skywalker", "russianTitle": "Звёздные войны: Скайуокер. Восход", "englishTitle": "Star Wars The Rise of Skywalker"},
-    {"folderName": "Sully", "russianTitle": "Салли", "englishTitle": "Sully"},
-    {"folderName": "The Adam Project", "russianTitle": "Проект «Адам»", "englishTitle": "The Adam Project"},
-    {"folderName": "The Batman", "russianTitle": "Бэтмен", "englishTitle": "The Batman"},
-    {"folderName": "The Covenant", "russianTitle": "Переводчик", "englishTitle": "The Covenant"},
-    {"folderName": "The Creator", "russianTitle": "Создатель", "englishTitle": "The Creator"},
-    {"folderName": "The Fly", "russianTitle": "Муха", "englishTitle": "The Fly"},
-    {"folderName": "The Gentlemen", "russianTitle": "Джентльмены", "englishTitle": "The Gentlemen"},
-    {"folderName": "The Greatest Showman", "russianTitle": "Величайший шоумен", "englishTitle": "The Greatest Showman"},
-    {"folderName": "The Irishman", "russianTitle": "Ирландец", "englishTitle": "The Irishman"},
-    {"folderName": "The Lion King", "russianTitle": "Король Лев", "englishTitle": "The Lion King"},
-    {"folderName": "The Little Mermaid", "russianTitle": "Русалочка", "englishTitle": "The Little Mermaid"},
-    {"folderName": "The Master", "russianTitle": "Мастер", "englishTitle": "The Master"},
-    {"folderName": "The Mule", "russianTitle": "Наркокурьер", "englishTitle": "The Mule"},
-    {"folderName": "The Old Guard", "russianTitle": "Бессмертная гвардия", "englishTitle": "The Old Guard"},
-    {"folderName": "The Power of the Dog", "russianTitle": "Власть пса", "englishTitle": "The Power of the Dog"},
-    {"folderName": "The Royal Tenenbaums", "russianTitle": "Семейка Тененбаум", "englishTitle": "The Royal Tenenbaums"},
-    {"folderName": "The Suicide Squad", "russianTitle": "Отряд самоубийц: Миссия навылет", "englishTitle": "The Suicide Squad"},
-    {"folderName": "The Tomorrow War", "russianTitle": "Война будущего", "englishTitle": "The Tomorrow War"},
-    {"folderName": "The Town", "russianTitle": "Город", "englishTitle": "The Town"},
-    {"folderName": "Turning Red", "russianTitle": "Я краснею", "englishTitle": "Turning Red"},
-    {"folderName": "West Side Story", "russianTitle": "Вестсайдская история", "englishTitle": "West Side Story"},
-    {"folderName": "Wind River", "russianTitle": "Ветреная река", "englishTitle": "Wind River"},
-    {"folderName": "Wonder Woman", "russianTitle": "Чудо-женщина", "englishTitle": "Wonder Woman"},
-    {"folderName": "Wrath of Man", "russianTitle": "Гнев человеческий", "englishTitle": "Wrath of Man"},
-    {"folderName": "Zack Snyder's Justice League", "russianTitle": "Лига справедливости Зака Снайдера", "englishTitle": "Zack Snyder's Justice League"},
-
-    {"folderName": "2001 A Space Odyssey", "russianTitle": "Космическая одиссея 2001 года", "englishTitle": "2001: A Space Odyssey"},
-    {"folderName": "3 Idiots", "russianTitle": "3 идиота", "englishTitle": "3 Idiots"},
-    {"folderName": "A Clockwork Orange", "russianTitle": "Заводной апельсин", "englishTitle": "A Clockwork Orange"},
-    {"folderName": "Adaptation", "russianTitle": "Адаптация", "englishTitle": "Adaptation."},
-    {"folderName": "Akira", "russianTitle": "Акира", "englishTitle": "Akira"},
-    {"folderName": "Aliens", "russianTitle": "Чужие", "englishTitle": "Aliens"},
-    {"folderName": "An American Werewolf in London", "russianTitle": "Американский оборотень в Лондоне", "englishTitle": "An American Werewolf in London"},
-    {"folderName": "Angels and Demons", "russianTitle": "Ангелы и демоны", "englishTitle": "Angels & Demons"},
-    {"folderName": "Apocalypse Now", "russianTitle": "Апокалипсис сегодня", "englishTitle": "Apocalypse Now"},
-    {"folderName": "Asteroid City", "russianTitle": "Город астероидов", "englishTitle": "Asteroid City"},
-    {"folderName": "Batman Begins", "russianTitle": "Бэтмен: Начало", "englishTitle": "Batman Begins"},
-    {"folderName": "Being John Malkovich", "russianTitle": "Быть Джоном Малковичем", "englishTitle": "Being John Malkovich"},
-    {"folderName": "Black Swan", "russianTitle": "Чёрный лебедь", "englishTitle": "Black Swan"},
-    {"folderName": "Blood Simple", "russianTitle": "Просто кровь", "englishTitle": "Blood Simple"},
-    {"folderName": "Bolt", "russianTitle": "Вольт", "englishTitle": "Bolt"},
-    {"folderName": "Bonnie and Clyde", "russianTitle": "Бонни и Клайд", "englishTitle": "Bonnie and Clyde"},
-    {"folderName": "Boogie Nights", "russianTitle": "Ночи в стиле буги", "englishTitle": "Boogie Nights"},
-    {"folderName": "Casino Royale", "russianTitle": "Казино «Рояль»", "englishTitle": "Casino Royale"},
-    {"folderName": "Cinderella Man", "russianTitle": "Нокдаун", "englishTitle": "Cinderella Man"},
-    {"folderName": "Close Encounters of the Third Kind", "russianTitle": "Близкие контакты третьей степени", "englishTitle": "Close Encounters of the Third Kind"},
-    {"folderName": "Crouching Tiger Hidden Dragon", "russianTitle": "Крадущийся тигр, затаившийся дракон", "englishTitle": "Crouching Tiger, Hidden Dragon"},
-    {"folderName": "Dodgeball", "russianTitle": "Вышибалы", "englishTitle": "Dodgeball: A True Underdog Story"},
-    {"folderName": "Double Impact", "russianTitle": "Двойной удар", "englishTitle": "Double Impact"},
-    {"folderName": "Drive My Car", "russianTitle": "Сядь за руль моей машины", "englishTitle": "Drive My Car"},
-    {"folderName": "Dune", "russianTitle": "Дюна", "englishTitle": "Dune"},
-    {"folderName": "Eternal Sunshine of the Spotless Mind", "russianTitle": "Вечное сияние чистого разума", "englishTitle": "Eternal Sunshine of the Spotless Mind"},
-    {"folderName": "Extraction 2", "russianTitle": "Тайлер Рейк: Операция по спасению 2", "englishTitle": "Extraction 2"},
-    {"folderName": "Fantastic Mr Fox", "russianTitle": "Бесподобный мистер Фокс", "englishTitle": "Fantastic Mr. Fox"},
-    {"folderName": "Fargo", "russianTitle": "Фарго", "englishTitle": "Fargo"},
-    {"folderName": "Finding Nemo", "russianTitle": "В поисках Немо", "englishTitle": "Finding Nemo"},
-    {"folderName": "Ghost in the Shell", "russianTitle": "Призрак в доспехах", "englishTitle": "Ghost in the Shell"},
-    {"folderName": "Ghostbusters", "russianTitle": "Охотники за привидениями", "englishTitle": "Ghostbusters"},
-    {"folderName": "Glass", "russianTitle": "Стекло", "englishTitle": "Glass"},
-    {"folderName": "Godzilla Minus One", "russianTitle": "Годзилла минус один", "englishTitle": "Godzilla Minus One"},
-    {"folderName": "Gone", "russianTitle": "Исчезнувшая", "englishTitle": "Gone"},
-    {"folderName": "Gravity", "russianTitle": "Гравитация", "englishTitle": "Gravity"},
-    {"folderName": "Green Book", "russianTitle": "Зелёная книга", "englishTitle": "Green Book"},
-    {"folderName": "Gremlins", "russianTitle": "Гремлины", "englishTitle": "Gremlins"},
-    {"folderName": "Groundhog Day", "russianTitle": "День сурка", "englishTitle": "Groundhog Day"},
-    {"folderName": "Hero", "russianTitle": "Герой", "englishTitle": "Hero"},
-    {"folderName": "Isle of Dogs", "russianTitle": "Остров собак", "englishTitle": "Isle of Dogs"},
-    {"folderName": "Lagaan", "russianTitle": "Лагаан: Однажды в Индии", "englishTitle": "Lagaan"},
-    {"folderName": "Law Abiding Citizen", "russianTitle": "Законопослушный гражданин", "englishTitle": "Law Abiding Citizen"},
-    {"folderName": "Magnolia", "russianTitle": "Магнолия", "englishTitle": "Magnolia"},
-    {"folderName": "Memories of Murder", "russianTitle": "Воспоминания об убийстве", "englishTitle": "Memories of Murder"},
-    {"folderName": "Miller's Crossing", "russianTitle": "Перекрёсток Миллера", "englishTitle": "Miller's Crossing"},
-    {"folderName": "Million Dollar Baby", "russianTitle": "Малышка на миллион", "englishTitle": "Million Dollar Baby"},
-    {"folderName": "Moneyball", "russianTitle": "Человек, который изменил всё", "englishTitle": "Moneyball"},
-    {"folderName": "Noah", "russianTitle": "Ной", "englishTitle": "Noah"},
-    {"folderName": "O Brother Where Art Thou", "russianTitle": "О, где же ты, брат?", "englishTitle": "O Brother, Where Art Thou?"},
-    {"folderName": "Oldboy", "russianTitle": "Олдбой", "englishTitle": "Oldboy"},
-    {"folderName": "One Flew Over the Cuckoo's Nest", "russianTitle": "Пролетая над гнездом кукушки", "englishTitle": "One Flew Over the Cuckoo's Nest"},
-    {"folderName": "Patriot Games", "russianTitle": "Игры патриотов", "englishTitle": "Patriot Games"},
-    {"folderName": "Princess Mononoke", "russianTitle": "Принцесса Мононоке", "englishTitle": "Princess Mononoke"},
-    {"folderName": "Psycho", "russianTitle": "Психо", "englishTitle": "Psycho"},
-    {"folderName": "Raging Bull", "russianTitle": "Бешеный бык", "englishTitle": "Raging Bull"},
-    {"folderName": "Rear Window", "russianTitle": "Окно во двор", "englishTitle": "Rear Window"},
-    {"folderName": "RoboCop", "russianTitle": "Робокоп", "englishTitle": "RoboCop"},
-    {"folderName": "Rosemary's Baby", "russianTitle": "Ребёнок Розмари", "englishTitle": "Rosemary's Baby"},
-    {"folderName": "Rushmore", "russianTitle": "Академия Рашмор", "englishTitle": "Rushmore"},
-    {"folderName": "Shoplifters", "russianTitle": "Магазинные воришки", "englishTitle": "Shoplifters"},
-    {"folderName": "Signs", "russianTitle": "Знаки", "englishTitle": "Signs"},
-    {"folderName": "Sinister", "russianTitle": "Синистер", "englishTitle": "Sinister"},
-    {"folderName": "Skyfall", "russianTitle": "007: Координаты «Скайфолл»", "englishTitle": "Skyfall"},
-    {"folderName": "Snowpiercer", "russianTitle": "Сквозь снег", "englishTitle": "Snowpiercer"},
-    {"folderName": "Spirited Away", "russianTitle": "Унесённые призраками", "englishTitle": "Spirited Away"},
-    {"folderName": "Star Wars Return of the Jedi", "russianTitle": "Звёздные войны: Возвращение джедая", "englishTitle": "Star Wars Return of the Jedi"},
-    {"folderName": "Star Wars The Last Jedi", "russianTitle": "Звёздные войны: Последние джедаи", "englishTitle": "Star Wars The Last Jedi"},
-    {"folderName": "Step Up", "russianTitle": "Шаг вперёд", "englishTitle": "Step Up"},
-    {"folderName": "Taxi Driver", "russianTitle": "Таксист", "englishTitle": "Taxi Driver"},
-    {"folderName": "The Big Short", "russianTitle": "Игра на понижение", "englishTitle": "The Big Short"},
-    {"folderName": "The Bourne Supremacy", "russianTitle": "Превосходство Борна", "englishTitle": "The Bourne Supremacy"},
-    {"folderName": "The Da Vinci Code", "russianTitle": "Код да Винчи", "englishTitle": "The Da Vinci Code"},
-    {"folderName": "The Deer Hunter", "russianTitle": "Охотник на оленей", "englishTitle": "The Deer Hunter"},
-    {"folderName": "The Equalizer", "russianTitle": "Великий уравнитель", "englishTitle": "The Equalizer"},
-    {"folderName": "The Fighter", "russianTitle": "Боец", "englishTitle": "The Fighter"},
-    {"folderName": "The Godfather Part II", "russianTitle": "Крёстный отец 2", "englishTitle": "The Godfather Part II"},
-    {"folderName": "The Gray Man", "russianTitle": "Серый человек", "englishTitle": "The Gray Man"},
-    {"folderName": "The Handmaiden", "russianTitle": "Служанка", "englishTitle": "The Handmaiden"},
-    {"folderName": "The Hunt for Red October", "russianTitle": "Охота за «Красным октябрём»", "englishTitle": "The Hunt for Red October"},
-    {"folderName": "The King's Speech", "russianTitle": "Король говорит!", "englishTitle": "The King's Speech"},
-    {"folderName": "The Martian", "russianTitle": "Марсианин", "englishTitle": "The Martian"},
-    {"folderName": "The Mask", "russianTitle": "Маска", "englishTitle": "The Mask"},
-    {"folderName": "The Omen", "russianTitle": "Омен", "englishTitle": "The Omen"},
-    {"folderName": "The Others", "russianTitle": "Другие", "englishTitle": "The Others"},
-    {"folderName": "The Ring", "russianTitle": "Звонок", "englishTitle": "The Ring"},
-    {"folderName": "The Shining", "russianTitle": "Сияние", "englishTitle": "The Shining"},
-    {"folderName": "The Social Network", "russianTitle": "Социальная сеть", "englishTitle": "The Social Network"},
-    {"folderName": "The Terminator", "russianTitle": "Терминатор", "englishTitle": "The Terminator"},
-    {"folderName": "The Thing", "russianTitle": "Нечто", "englishTitle": "The Thing"},
-    {"folderName": "The Wandering Earth", "russianTitle": "Блуждающая Земля", "englishTitle": "The Wandering Earth"},
-    {"folderName": "The Witch", "russianTitle": "Ведьма", "englishTitle": "The Witch"},
-    {"folderName": "The Wizard of Oz", "russianTitle": "Волшебник страны Оз", "englishTitle": "The Wizard of Oz"},
-    {"folderName": "The Wrestler", "russianTitle": "Рестлер", "englishTitle": "The Wrestler"},
-    {"folderName": "Total Recall", "russianTitle": "Вспомнить всё", "englishTitle": "Total Recall"},
-    {"folderName": "Unbreakable", "russianTitle": "Неуязвимый", "englishTitle": "Unbreakable"},
-    {"folderName": "War of the Worlds", "russianTitle": "Война миров", "englishTitle": "War of the Worlds"},
-    {"folderName": "Whiplash", "russianTitle": "Одержимость", "englishTitle": "Whiplash"},
-    {"folderName": "Who Framed Roger Rabbit", "russianTitle": "Кто подставил кролика Роджера", "englishTitle": "Who Framed Roger Rabbit"},
-    {"folderName": "Your Name", "russianTitle": "Твоё имя", "englishTitle": "Your Name"}
+    {
+      "folderName": "A Beautiful Mind",
+      "russianTitle": "Игры разума",
+      "englishTitle": "A Beautiful Mind"
+    },
+    {
+      "folderName": "A Star Is Born",
+      "russianTitle": "Звезда родилась",
+      "englishTitle": "A Star Is Born"
+    },
+    {
+      "folderName": "Alien",
+      "russianTitle": "Чужой",
+      "englishTitle": "Alien"
+    },
+    {
+      "folderName": "Back to the Future",
+      "russianTitle": "Назад в будущее",
+      "englishTitle": "Back to the Future"
+    },
+    {
+      "folderName": "Bohemian Rhapsody",
+      "russianTitle": "Богемская рапсодия",
+      "englishTitle": "Bohemian Rhapsody"
+    },
+    {
+      "folderName": "Braveheart",
+      "russianTitle": "Храброе сердце",
+      "englishTitle": "Braveheart"
+    },
+    {
+      "folderName": "Cars",
+      "russianTitle": "Тачки",
+      "englishTitle": "Cars"
+    },
+    {
+      "folderName": "Casino",
+      "russianTitle": "Казино",
+      "englishTitle": "Casino"
+    },
+    {
+      "folderName": "Cast Away",
+      "russianTitle": "Изгой",
+      "englishTitle": "Cast Away"
+    },
+    {
+      "folderName": "Catch Me If You Can",
+      "russianTitle": "Поймай меня, если сможешь",
+      "englishTitle": "Catch Me If You Can"
+    },
+    {
+      "folderName": "Coco",
+      "russianTitle": "Тайна Коко",
+      "englishTitle": "Coco"
+    },
+    {
+      "folderName": "Dead Poets Society",
+      "russianTitle": "Общество мёртвых поэтов",
+      "englishTitle": "Dead Poets Society"
+    },
+    {
+      "folderName": "Die Hard",
+      "russianTitle": "Крепкий орешек",
+      "englishTitle": "Die Hard"
+    },
+    {
+      "folderName": "Django Unchained",
+      "russianTitle": "Джанго освобождённый",
+      "englishTitle": "Django Unchained"
+    },
+    {
+      "folderName": "E.T",
+      "russianTitle": "Инопланетянин",
+      "englishTitle": "E.T. the Extra-Terrestrial"
+    },
+    {
+      "folderName": "Fight Club",
+      "russianTitle": "Бойцовский клуб",
+      "englishTitle": "Fight Club"
+    },
+    {
+      "folderName": "Finding Nemo",
+      "russianTitle": "В поисках Немо",
+      "englishTitle": "Finding Nemo"
+    },
+    {
+      "folderName": "Forrest Gump",
+      "russianTitle": "Форрест Гамп",
+      "englishTitle": "Forrest Gump"
+    },
+    {
+      "folderName": "Frozen",
+      "russianTitle": "Холодное сердце",
+      "englishTitle": "Frozen"
+    },
+    {
+      "folderName": "Ghostbusters",
+      "russianTitle": "Охотники за привидениями",
+      "englishTitle": "Ghostbusters"
+    },
+    {
+      "folderName": "Gladiator",
+      "russianTitle": "Гладиатор",
+      "englishTitle": "Gladiator"
+    },
+    {
+      "folderName": "Godzilla",
+      "russianTitle": "Годзилла",
+      "englishTitle": "Godzilla"
+    },
+    {
+      "folderName": "Gone Girl",
+      "russianTitle": "Исчезнувшая",
+      "englishTitle": "Gone Girl"
+    },
+    {
+      "folderName": "Good Will Hunting",
+      "russianTitle": "Умница Уилл Хантинг",
+      "englishTitle": "Good Will Hunting"
+    },
+    {
+      "folderName": "Goodfellas",
+      "russianTitle": "Славные парни",
+      "englishTitle": "Goodfellas"
+    },
+    {
+      "folderName": "Harry Potter",
+      "russianTitle": "Гарри Поттер",
+      "englishTitle": "Harry Potter"
+    },
+    {
+      "folderName": "Home Alone",
+      "russianTitle": "Один дома",
+      "englishTitle": "Home Alone"
+    },
+    {
+      "folderName": "Inception",
+      "russianTitle": "Начало",
+      "englishTitle": "Inception"
+    },
+    {
+      "folderName": "Indiana Jones",
+      "russianTitle": "Индиана Джонс",
+      "englishTitle": "Indiana Jones"
+    },
+    {
+      "folderName": "Inferno",
+      "russianTitle": "Инферно",
+      "englishTitle": "Inferno"
+    },
+    {
+      "folderName": "Inglourious Basterds",
+      "russianTitle": "Бесславные ублюдки",
+      "englishTitle": "Inglourious Basterds"
+    },
+    {
+      "folderName": "Interstellar",
+      "russianTitle": "Интерстеллар",
+      "englishTitle": "Interstellar"
+    },
+    {
+      "folderName": "James Bond",
+      "russianTitle": "Джеймс Бонд",
+      "englishTitle": "James Bond"
+    },
+    {
+      "folderName": "Jaws",
+      "russianTitle": "Челюсти",
+      "englishTitle": "Jaws"
+    },
+    {
+      "folderName": "John Wick",
+      "russianTitle": "Джон Уик",
+      "englishTitle": "John Wick"
+    },
+    {
+      "folderName": "Jurassic Park",
+      "russianTitle": "Парк Юрского периода",
+      "englishTitle": "Jurassic Park"
+    },
+    {
+      "folderName": "Kill Bill",
+      "russianTitle": "Убить Билла",
+      "englishTitle": "Kill Bill"
+    },
+    {
+      "folderName": "King Kong",
+      "russianTitle": "Кинг-Конг",
+      "englishTitle": "King Kong"
+    },
+    {
+      "folderName": "La La Land",
+      "russianTitle": "Ла-Ла Ленд",
+      "englishTitle": "La La Land"
+    },
+    {
+      "folderName": "Mad Max Fury Road",
+      "russianTitle": "Безумный Макс: Дорога ярости",
+      "englishTitle": "Mad Max: Fury Road"
+    },
+    {
+      "folderName": "Matrix",
+      "russianTitle": "Матрица",
+      "englishTitle": "The Matrix"
+    },
+    {
+      "folderName": "Memento",
+      "russianTitle": "Помни",
+      "englishTitle": "Memento"
+    },
+    {
+      "folderName": "Mission Impossible",
+      "russianTitle": "Миссия невыполнима",
+      "englishTitle": "Mission: Impossible"
+    },
+    {
+      "folderName": "Monsters Inc",
+      "russianTitle": "Корпорация монстров",
+      "englishTitle": "Monsters, Inc."
+    },
+    {
+      "folderName": "Moonrise Kingdom",
+      "russianTitle": "Королевство полной луны",
+      "englishTitle": "Moonrise Kingdom"
+    },
+    {
+      "folderName": "National Treasure",
+      "russianTitle": "Сокровище нации",
+      "englishTitle": "National Treasure"
+    },
+    {
+      "folderName": "No Country for Old Men",
+      "russianTitle": "Старикам тут не место",
+      "englishTitle": "No Country for Old Men"
+    },
+    {
+      "folderName": "Once Upon a Time in Hollywood",
+      "russianTitle": "Однажды в Голливуде",
+      "englishTitle": "Once Upon a Time in Hollywood"
+    },
+    {
+      "folderName": "Pacific Rim",
+      "russianTitle": "Тихоокеанский рубеж",
+      "englishTitle": "Pacific Rim"
+    },
+    {
+      "folderName": "Pirates of the Caribbean",
+      "russianTitle": "Пираты Карибского моря",
+      "englishTitle": "Pirates of the Caribbean"
+    },
+    {
+      "folderName": "Predator",
+      "russianTitle": "Хищник",
+      "englishTitle": "Predator"
+    },
+    {
+      "folderName": "Prisoners",
+      "russianTitle": "Пленницы",
+      "englishTitle": "Prisoners"
+    },
+    {
+      "folderName": "Pulp Fiction",
+      "russianTitle": "Криминальное чтиво",
+      "englishTitle": "Pulp Fiction"
+    },
+    {
+      "folderName": "Rambo",
+      "russianTitle": "Рэмбо",
+      "englishTitle": "Rambo"
+    },
+    {
+      "folderName": "Ratatouille",
+      "russianTitle": "Рататуй",
+      "englishTitle": "Ratatouille"
+    },
+    {
+      "folderName": "Reservoir Dogs",
+      "russianTitle": "Бешеные псы",
+      "englishTitle": "Reservoir Dogs"
+    },
+    {
+      "folderName": "Rocketman",
+      "russianTitle": "Рокетмен",
+      "englishTitle": "Rocketman"
+    },
+    {
+      "folderName": "Rocky",
+      "russianTitle": "Рокки",
+      "englishTitle": "Rocky"
+    },
+    {
+      "folderName": "Saving Private Ryan",
+      "russianTitle": "Спасти рядового Райана",
+      "englishTitle": "Saving Private Ryan"
+    },
+    {
+      "folderName": "Schindlers List",
+      "russianTitle": "Список Шиндлера",
+      "englishTitle": "Schindler's List"
+    },
+    {
+      "folderName": "Se7en",
+      "russianTitle": "Семь",
+      "englishTitle": "Se7en"
+    },
+    {
+      "folderName": "Shrek",
+      "russianTitle": "Шрек",
+      "englishTitle": "Shrek"
+    },
+    {
+      "folderName": "Shutter Island",
+      "russianTitle": "Остров проклятых",
+      "englishTitle": "Shutter Island"
+    },
+    {
+      "folderName": "Sicario",
+      "russianTitle": "Убийца",
+      "englishTitle": "Sicario"
+    },
+    {
+      "folderName": "Star Wars",
+      "russianTitle": "Звёздные войны: Новая надежда",
+      "englishTitle": "Star Wars A New Hope"
+    },
+    {
+      "folderName": "Star Wars The Force Awakens",
+      "russianTitle": "Звёздные войны: Пробуждение силы",
+      "englishTitle": "Star Wars The Force Awakens"
+    },
+    {
+      "folderName": "Taken",
+      "russianTitle": "Заложница",
+      "englishTitle": "Taken"
+    },
+    {
+      "folderName": "Terminator 2",
+      "russianTitle": "Терминатор 2",
+      "englishTitle": "Terminator 2: Judgment Day"
+    },
+    {
+      "folderName": "The Avengers",
+      "russianTitle": "Мстители",
+      "englishTitle": "The Avengers"
+    },
+    {
+      "folderName": "The Bourne Identity",
+      "russianTitle": "Идентификация Борна",
+      "englishTitle": "The Bourne Identity"
+    },
+    {
+      "folderName": "The Dark Knight",
+      "russianTitle": "Тёмный рыцарь",
+      "englishTitle": "The Dark Knight"
+    },
+    {
+      "folderName": "The Departed",
+      "russianTitle": "Отступники",
+      "englishTitle": "The Departed"
+    },
+    {
+      "folderName": "The Fast and the Furious",
+      "russianTitle": "Форсаж",
+      "englishTitle": "The Fast and the Furious"
+    },
+    {
+      "folderName": "The Fault in Our Stars",
+      "russianTitle": "Виноваты звёзды",
+      "englishTitle": "The Fault in Our Stars"
+    },
+    {
+      "folderName": "The French Dispatch",
+      "russianTitle": "Французский вестник",
+      "englishTitle": "The French Dispatch"
+    },
+    {
+      "folderName": "The Godfather",
+      "russianTitle": "Крёстный отец",
+      "englishTitle": "The Godfather"
+    },
+    {
+      "folderName": "The Green Mile",
+      "russianTitle": "Зелёная миля",
+      "englishTitle": "The Green Mile"
+    },
+    {
+      "folderName": "The Hateful Eight",
+      "russianTitle": "Омерзительная восьмёрка",
+      "englishTitle": "The Hateful Eight"
+    },
+    {
+      "folderName": "The Imitation Game",
+      "russianTitle": "Игра в имитацию",
+      "englishTitle": "The Imitation Game"
+    },
+    {
+      "folderName": "The Incredibles",
+      "russianTitle": "Суперсемейка",
+      "englishTitle": "The Incredibles"
+    },
+    {
+      "folderName": "The Lion King",
+      "russianTitle": "Король Лев",
+      "englishTitle": "The Lion King"
+    },
+    {
+      "folderName": "The Lord of the Rings",
+      "russianTitle": "Властелин колец",
+      "englishTitle": "The Lord of the Rings"
+    },
+    {
+      "folderName": "The Mummy",
+      "russianTitle": "Мумия",
+      "englishTitle": "The Mummy"
+    },
+    {
+      "folderName": "The Notebook",
+      "russianTitle": "Дневник памяти",
+      "englishTitle": "The Notebook"
+    },
+    {
+      "folderName": "The Prestige",
+      "russianTitle": "Престиж",
+      "englishTitle": "The Prestige"
+    },
+    {
+      "folderName": "The Revenant",
+      "russianTitle": "Выживший",
+      "englishTitle": "The Revenant"
+    },
+    {
+      "folderName": "The Shawshank Redemption",
+      "russianTitle": "Побег из Шоушенка",
+      "englishTitle": "The Shawshank Redemption"
+    },
+    {
+      "folderName": "The Silence of the Lambs",
+      "russianTitle": "Молчание ягнят",
+      "englishTitle": "The Silence of the Lambs"
+    },
+    {
+      "folderName": "The Terminal",
+      "russianTitle": "Терминал",
+      "englishTitle": "The Terminal"
+    },
+    {
+      "folderName": "The Theory of Everything",
+      "russianTitle": "Теория всего",
+      "englishTitle": "The Theory of Everything"
+    },
+    {
+      "folderName": "The Truman Show",
+      "russianTitle": "Шоу Трумана",
+      "englishTitle": "The Truman Show"
+    },
+    {
+      "folderName": "The Usual Suspects",
+      "russianTitle": "Подозрительные лица",
+      "englishTitle": "The Usual Suspects"
+    },
+    {
+      "folderName": "The Wolf of Wall Street",
+      "russianTitle": "Волк с Уолл-стрит",
+      "englishTitle": "The Wolf of Wall Street"
+    },
+    {
+      "folderName": "There Will Be Blood",
+      "russianTitle": "Нефть",
+      "englishTitle": "There Will Be Blood"
+    },
+    {
+      "folderName": "Titanic",
+      "russianTitle": "Титаник",
+      "englishTitle": "Titanic"
+    },
+    {
+      "folderName": "Toy Story",
+      "russianTitle": "История игрушек",
+      "englishTitle": "Toy Story"
+    },
+    {
+      "folderName": "Transformers",
+      "russianTitle": "Трансформеры",
+      "englishTitle": "Transformers"
+    },
+    {
+      "folderName": "Up",
+      "russianTitle": "Вверх",
+      "englishTitle": "Up"
+    },
+    {
+      "folderName": "WALL-E",
+      "russianTitle": "ВАЛЛ-И",
+      "englishTitle": "WALL-E"
+    },
+    {
+      "folderName": "Zodiac",
+      "russianTitle": "Зодиак",
+      "englishTitle": "Zodiac"
+    },
+    {
+      "folderName": "1917",
+      "russianTitle": "1917",
+      "englishTitle": "1917"
+    },
+    {
+      "folderName": "28 Days Later",
+      "russianTitle": "28 дней спустя",
+      "englishTitle": "28 Days Later"
+    },
+    {
+      "folderName": "A Nightmare on Elm Street",
+      "russianTitle": "Кошмар на улице Вязов",
+      "englishTitle": "A Nightmare on Elm Street"
+    },
+    {
+      "folderName": "A Quiet Place",
+      "russianTitle": "Тихое место",
+      "englishTitle": "A Quiet Place"
+    },
+    {
+      "folderName": "A Separation",
+      "russianTitle": "Развод Надера и Симин",
+      "englishTitle": "A Separation"
+    },
+    {
+      "folderName": "American Beauty",
+      "russianTitle": "Красота по-американски",
+      "englishTitle": "American Beauty"
+    },
+    {
+      "folderName": "Amour",
+      "russianTitle": "Любовь",
+      "englishTitle": "Amour"
+    },
+    {
+      "folderName": "Anchorman",
+      "russianTitle": "Телеведущий",
+      "englishTitle": "Anchorman: The Legend of Ron Burgundy"
+    },
+    {
+      "folderName": "Armageddon",
+      "russianTitle": "Армагеддон",
+      "englishTitle": "Armageddon"
+    },
+    {
+      "folderName": "Arrival",
+      "russianTitle": "Прибытие",
+      "englishTitle": "Arrival"
+    },
+    {
+      "folderName": "Avatar",
+      "russianTitle": "Аватар",
+      "englishTitle": "Avatar"
+    },
+    {
+      "folderName": "Bad Boys",
+      "russianTitle": "Плохие парни",
+      "englishTitle": "Bad Boys"
+    },
+    {
+      "folderName": "Birdman",
+      "russianTitle": "Бёрдмэн",
+      "englishTitle": "Birdman"
+    },
+    {
+      "folderName": "Blade Runner",
+      "russianTitle": "Бегущий по лезвию",
+      "englishTitle": "Blade Runner"
+    },
+    {
+      "folderName": "Clueless",
+      "russianTitle": "Бестолковые",
+      "englishTitle": "Clueless"
+    },
+    {
+      "folderName": "Con Air",
+      "russianTitle": "Воздушная тюрьма",
+      "englishTitle": "Con Air"
+    },
+    {
+      "folderName": "Dawn of the Dead",
+      "russianTitle": "Рассвет мертвецов",
+      "englishTitle": "Dawn of the Dead"
+    },
+    {
+      "folderName": "Dirty Dancing",
+      "russianTitle": "Грязные танцы",
+      "englishTitle": "Dirty Dancing"
+    },
+    {
+      "folderName": "District 9",
+      "russianTitle": "Район №9",
+      "englishTitle": "District 9"
+    },
+    {
+      "folderName": "Downfall",
+      "russianTitle": "Бункер",
+      "englishTitle": "Downfall"
+    },
+    {
+      "folderName": "Dune",
+      "russianTitle": "Дюна",
+      "englishTitle": "Dune"
+    },
+    {
+      "folderName": "Dunkirk",
+      "russianTitle": "Дюнкерк",
+      "englishTitle": "Dunkirk"
+    },
+    {
+      "folderName": "Edge of Tomorrow",
+      "russianTitle": "Грань будущего",
+      "englishTitle": "Edge of Tomorrow"
+    },
+    {
+      "folderName": "Face Off",
+      "russianTitle": "Без лица",
+      "englishTitle": "Face/Off"
+    },
+    {
+      "folderName": "Ferris Bueller's Day Off",
+      "russianTitle": "Выходной день Ферриса Бьюллера",
+      "englishTitle": "Ferris Bueller's Day Off"
+    },
+    {
+      "folderName": "Friday the 13th",
+      "russianTitle": "Пятница, 13-е",
+      "englishTitle": "Friday the 13th"
+    },
+    {
+      "folderName": "Fury",
+      "russianTitle": "Ярость",
+      "englishTitle": "Fury"
+    },
+    {
+      "folderName": "Get Out",
+      "russianTitle": "Прочь",
+      "englishTitle": "Get Out"
+    },
+    {
+      "folderName": "Ghost",
+      "russianTitle": "Привидение",
+      "englishTitle": "Ghost"
+    },
+    {
+      "folderName": "Hacksaw Ridge",
+      "russianTitle": "По соображениям совести",
+      "englishTitle": "Hacksaw Ridge"
+    },
+    {
+      "folderName": "Halloween",
+      "russianTitle": "Хэллоуин",
+      "englishTitle": "Halloween"
+    },
+    {
+      "folderName": "Hereditary",
+      "russianTitle": "Реинкарнация",
+      "englishTitle": "Hereditary"
+    },
+    {
+      "folderName": "I Am Legend",
+      "russianTitle": "Я — легенда",
+      "englishTitle": "I Am Legend"
+    },
+    {
+      "folderName": "Independence Day",
+      "russianTitle": "День независимости",
+      "englishTitle": "Independence Day"
+    },
+    {
+      "folderName": "Insidious",
+      "russianTitle": "Астрал",
+      "englishTitle": "Insidious"
+    },
+    {
+      "folderName": "It",
+      "russianTitle": "Оно",
+      "englishTitle": "It"
+    },
+    {
+      "folderName": "It Follows",
+      "russianTitle": "Оно следует",
+      "englishTitle": "It Follows"
+    },
+    {
+      "folderName": "Joker",
+      "russianTitle": "Джокер",
+      "englishTitle": "Joker"
+    },
+    {
+      "folderName": "Legally Blonde",
+      "russianTitle": "Блондинка в законе",
+      "englishTitle": "Legally Blonde"
+    },
+    {
+      "folderName": "Lethal Weapon",
+      "russianTitle": "Смертельное оружие",
+      "englishTitle": "Lethal Weapon"
+    },
+    {
+      "folderName": "Life of Pi",
+      "russianTitle": "Жизнь Пи",
+      "englishTitle": "Life of Pi"
+    },
+    {
+      "folderName": "Mean Girls",
+      "russianTitle": "Дрянные девчонки",
+      "englishTitle": "Mean Girls"
+    },
+    {
+      "folderName": "Men in Black",
+      "russianTitle": "Люди в чёрном",
+      "englishTitle": "Men in Black"
+    },
+    {
+      "folderName": "Midsommar",
+      "russianTitle": "Солнцестояние",
+      "englishTitle": "Midsommar"
+    },
+    {
+      "folderName": "Moonlight",
+      "russianTitle": "Лунный свет",
+      "englishTitle": "Moonlight"
+    },
+    {
+      "folderName": "Oblivion",
+      "russianTitle": "Обливион",
+      "englishTitle": "Oblivion"
+    },
+    {
+      "folderName": "Old School",
+      "russianTitle": "Старая закалка",
+      "englishTitle": "Old School"
+    },
+    {
+      "folderName": "Pan's Labyrinth",
+      "russianTitle": "Лабиринт Фавна",
+      "englishTitle": "Pan's Labyrinth"
+    },
+    {
+      "folderName": "Parasite",
+      "russianTitle": "Паразиты",
+      "englishTitle": "Parasite"
+    },
+    {
+      "folderName": "Philadelphia",
+      "russianTitle": "Филадельфия",
+      "englishTitle": "Philadelphia"
+    },
+    {
+      "folderName": "Point Break",
+      "russianTitle": "На гребне волны",
+      "englishTitle": "Point Break"
+    },
+    {
+      "folderName": "Pretty in Pink",
+      "russianTitle": "Красотка в розовом",
+      "englishTitle": "Pretty in Pink"
+    },
+    {
+      "folderName": "Rain Man",
+      "russianTitle": "Человек дождя",
+      "englishTitle": "Rain Man"
+    },
+    {
+      "folderName": "Roma",
+      "russianTitle": "Рома",
+      "englishTitle": "Roma"
+    },
+    {
+      "folderName": "Saw",
+      "russianTitle": "Пила",
+      "englishTitle": "Saw"
+    },
+    {
+      "folderName": "Scent of a Woman",
+      "russianTitle": "Запах женщины",
+      "englishTitle": "Scent of a Woman"
+    },
+    {
+      "folderName": "Scream",
+      "russianTitle": "Крик",
+      "englishTitle": "Scream"
+    },
+    {
+      "folderName": "Shaun of the Dead",
+      "russianTitle": "Зомби по имени Шон",
+      "englishTitle": "Shaun of the Dead"
+    },
+    {
+      "folderName": "Sixteen Candles",
+      "russianTitle": "Шестнадцать свечей",
+      "englishTitle": "Sixteen Candles"
+    },
+    {
+      "folderName": "Sleepless in Seattle",
+      "russianTitle": "Неспящие в Сиэтле",
+      "englishTitle": "Sleepless in Seattle"
+    },
+    {
+      "folderName": "Slumdog Millionaire",
+      "russianTitle": "Миллионер из трущоб",
+      "englishTitle": "Slumdog Millionaire"
+    },
+    {
+      "folderName": "Speed",
+      "russianTitle": "Скорость",
+      "englishTitle": "Speed"
+    },
+    {
+      "folderName": "Split",
+      "russianTitle": "Сплит",
+      "englishTitle": "Split"
+    },
+    {
+      "folderName": "Spotlight",
+      "russianTitle": "В центре внимания",
+      "englishTitle": "Spotlight"
+    },
+    {
+      "folderName": "Star Wars Rogue One",
+      "russianTitle": "Звёздные войны: Изгой-один",
+      "englishTitle": "Star Wars Rogue One"
+    },
+    {
+      "folderName": "Star Wars Solo",
+      "russianTitle": "Звёздные войны: Хан Соло",
+      "englishTitle": "Star Wars Solo"
+    },
+    {
+      "folderName": "Step Brothers",
+      "russianTitle": "Сводные братья",
+      "englishTitle": "Step Brothers"
+    },
+    {
+      "folderName": "Superbad",
+      "russianTitle": "СуперПерцы",
+      "englishTitle": "Superbad"
+    },
+    {
+      "folderName": "Tenet",
+      "russianTitle": "Довод",
+      "englishTitle": "Tenet"
+    },
+    {
+      "folderName": "The Babadook",
+      "russianTitle": "Бабадук",
+      "englishTitle": "The Babadook"
+    },
+    {
+      "folderName": "The Big Lebowski",
+      "russianTitle": "Большой Лебовски",
+      "englishTitle": "The Big Lebowski"
+    },
+    {
+      "folderName": "The Bourne Ultimatum",
+      "russianTitle": "Ультиматум Борна",
+      "englishTitle": "The Bourne Ultimatum"
+    },
+    {
+      "folderName": "The Breakfast Club",
+      "russianTitle": "Клуб «Завтрак»",
+      "englishTitle": "The Breakfast Club"
+    },
+    {
+      "folderName": "The Chronicles of Narnia",
+      "russianTitle": "Хроники Нарнии",
+      "englishTitle": "The Chronicles of Narnia"
+    },
+    {
+      "folderName": "The Color Purple",
+      "russianTitle": "Цветы лиловые полей",
+      "englishTitle": "The Color Purple"
+    },
+    {
+      "folderName": "The Conjuring",
+      "russianTitle": "Заклятие",
+      "englishTitle": "The Conjuring"
+    },
+    {
+      "folderName": "The Curious Case of Benjamin Button",
+      "russianTitle": "Загадочная история Бенджамина Баттона",
+      "englishTitle": "The Curious Case of Benjamin Button"
+    },
+    {
+      "folderName": "The Day After Tomorrow",
+      "russianTitle": "Послезавтра",
+      "englishTitle": "The Day After Tomorrow"
+    },
+    {
+      "folderName": "The Descent",
+      "russianTitle": "Спуск",
+      "englishTitle": "The Descent"
+    },
+    {
+      "folderName": "The Exorcist",
+      "russianTitle": "Изгоняющий дьявола",
+      "englishTitle": "The Exorcist"
+    },
+    {
+      "folderName": "The Fifth Element",
+      "russianTitle": "Пятый элемент",
+      "englishTitle": "The Fifth Element"
+    },
+    {
+      "folderName": "The Grand Budapest Hotel",
+      "russianTitle": "Отель «Гранд Будапешт»",
+      "englishTitle": "The Grand Budapest Hotel"
+    },
+    {
+      "folderName": "The Grudge",
+      "russianTitle": "Проклятие",
+      "englishTitle": "The Grudge"
+    },
+    {
+      "folderName": "The Hangover",
+      "russianTitle": "Мальчишник в Вегасе",
+      "englishTitle": "The Hangover"
+    },
+    {
+      "folderName": "The Hunger Games",
+      "russianTitle": "Голодные игры",
+      "englishTitle": "The Hunger Games"
+    },
+    {
+      "folderName": "The Life Aquatic with Steve Zissou",
+      "russianTitle": "Водная жизнь",
+      "englishTitle": "The Life Aquatic with Steve Zissou"
+    },
+    {
+      "folderName": "The Lives of Others",
+      "russianTitle": "Жизнь других",
+      "englishTitle": "The Lives of Others"
+    },
+    {
+      "folderName": "The Pianist",
+      "russianTitle": "Пианист",
+      "englishTitle": "The Pianist"
+    },
+    {
+      "folderName": "The Princess Bride",
+      "russianTitle": "Принцесса-невеста",
+      "englishTitle": "The Princess Bride"
+    },
+    {
+      "folderName": "The Pursuit of Happyness",
+      "russianTitle": "В погоне за счастьем",
+      "englishTitle": "The Pursuit of Happyness"
+    },
+    {
+      "folderName": "The Rock",
+      "russianTitle": "Скала",
+      "englishTitle": "The Rock"
+    },
+    {
+      "folderName": "The Shape of Water",
+      "russianTitle": "Форма воды",
+      "englishTitle": "The Shape of Water"
+    },
+    {
+      "folderName": "The Sixth Sense",
+      "russianTitle": "Шестое чувство",
+      "englishTitle": "The Sixth Sense"
+    },
+    {
+      "folderName": "Train to Busan",
+      "russianTitle": "Поезд в Пусан",
+      "englishTitle": "Train to Busan"
+    },
+    {
+      "folderName": "Us",
+      "russianTitle": "Мы",
+      "englishTitle": "Us"
+    },
+    {
+      "folderName": "Wedding Crashers",
+      "russianTitle": "Незваные гости",
+      "englishTitle": "Wedding Crashers"
+    },
+    {
+      "folderName": "When Harry Met Sally",
+      "russianTitle": "Когда Гарри встретил Салли",
+      "englishTitle": "When Harry Met Sally"
+    },
+    {
+      "folderName": "World War Z",
+      "russianTitle": "Война миров Z",
+      "englishTitle": "World War Z"
+    },
+    {
+      "folderName": "You've Got Mail",
+      "russianTitle": "У вас письмо",
+      "englishTitle": "You've Got Mail"
+    },
+    {
+      "folderName": "Zombieland",
+      "russianTitle": "Добро пожаловать в Zомбилэнд",
+      "englishTitle": "Zombieland"
+    },
+    {
+      "folderName": "65",
+      "russianTitle": "65: После Земли",
+      "englishTitle": "65"
+    },
+    {
+      "folderName": "Aladdin",
+      "russianTitle": "Аладдин",
+      "englishTitle": "Aladdin"
+    },
+    {
+      "folderName": "Alice in Wonderland",
+      "russianTitle": "Алиса в Стране чудес",
+      "englishTitle": "Alice in Wonderland"
+    },
+    {
+      "folderName": "Alita_ Battle Angel",
+      "russianTitle": "Алита: Боевой ангел",
+      "englishTitle": "Alita: Battle Angel"
+    },
+    {
+      "folderName": "American Sniper",
+      "russianTitle": "Американский снайпер",
+      "englishTitle": "American Sniper"
+    },
+    {
+      "folderName": "Aquaman",
+      "russianTitle": "Аквамен",
+      "englishTitle": "Aquaman"
+    },
+    {
+      "folderName": "Argo",
+      "russianTitle": "Операция «Арго»",
+      "englishTitle": "Argo"
+    },
+    {
+      "folderName": "Army of the Dead",
+      "russianTitle": "Армия мертвецов",
+      "englishTitle": "Army of the Dead"
+    },
+    {
+      "folderName": "Barbie",
+      "russianTitle": "Барби",
+      "englishTitle": "Barbie"
+    },
+    {
+      "folderName": "Beauty and the Beast",
+      "russianTitle": "Красавица и Чудовище",
+      "englishTitle": "Beauty and the Beast"
+    },
+    {
+      "folderName": "Birds of Prey",
+      "russianTitle": "Хищные птицы",
+      "englishTitle": "Birds of Prey"
+    },
+    {
+      "folderName": "Black Panther",
+      "russianTitle": "Чёрная пантера",
+      "englishTitle": "Black Panther"
+    },
+    {
+      "folderName": "Blade Runner 2049",
+      "russianTitle": "Бегущий по лезвию 2049",
+      "englishTitle": "Blade Runner 2049"
+    },
+    {
+      "folderName": "Changeling",
+      "russianTitle": "Подмена",
+      "englishTitle": "Changeling"
+    },
+    {
+      "folderName": "Chicago",
+      "russianTitle": "Чикаго",
+      "englishTitle": "Chicago"
+    },
+    {
+      "folderName": "Cruella",
+      "russianTitle": "Круэлла",
+      "englishTitle": "Cruella"
+    },
+    {
+      "folderName": "Cry Macho",
+      "russianTitle": "Мужские слёзы",
+      "englishTitle": "Cry Macho"
+    },
+    {
+      "folderName": "Deadpool",
+      "russianTitle": "Дэдпул",
+      "englishTitle": "Deadpool"
+    },
+    {
+      "folderName": "Don't Look Up",
+      "russianTitle": "Не смотрите наверх",
+      "englishTitle": "Don't Look Up"
+    },
+    {
+      "folderName": "Dreamgirls",
+      "russianTitle": "Мечтательницы",
+      "englishTitle": "Dreamgirls"
+    },
+    {
+      "folderName": "Elemental",
+      "russianTitle": "Элементарно",
+      "englishTitle": "Elemental"
+    },
+    {
+      "folderName": "Elvis",
+      "russianTitle": "Элвис",
+      "englishTitle": "Elvis"
+    },
+    {
+      "folderName": "Encanto",
+      "russianTitle": "Энканто",
+      "englishTitle": "Encanto"
+    },
+    {
+      "folderName": "Everything Everywhere All at Once",
+      "russianTitle": "Всё везде и сразу",
+      "englishTitle": "Everything Everywhere All at Once"
+    },
+    {
+      "folderName": "Extraction",
+      "russianTitle": "Тайлер Рейк: Операция по спасению",
+      "englishTitle": "Extraction"
+    },
+    {
+      "folderName": "Free Guy",
+      "russianTitle": "Главный герой",
+      "englishTitle": "Free Guy"
+    },
+    {
+      "folderName": "Furiosa_ A Mad Max Saga",
+      "russianTitle": "Фуриоса: Сага о Безумном Максе",
+      "englishTitle": "Furiosa: A Mad Max Saga"
+    },
+    {
+      "folderName": "Godzilla vs. Kong",
+      "russianTitle": "Годзилла против Конга",
+      "englishTitle": "Godzilla vs. Kong"
+    },
+    {
+      "folderName": "Gone Baby Gone",
+      "russianTitle": "Прощай, детка, прощай",
+      "englishTitle": "Gone Baby Gone"
+    },
+    {
+      "folderName": "Gran Torino",
+      "russianTitle": "Гран Торино",
+      "englishTitle": "Gran Torino"
+    },
+    {
+      "folderName": "Gran Turismo",
+      "russianTitle": "Gran Turismo: Лучшая гонка в жизни",
+      "englishTitle": "Gran Turismo"
+    },
+    {
+      "folderName": "Guardians of the Galaxy",
+      "russianTitle": "Стражи Галактики",
+      "englishTitle": "Guardians of the Galaxy"
+    },
+    {
+      "folderName": "Heart of Stone",
+      "russianTitle": "Каменное сердце",
+      "englishTitle": "Heart of Stone"
+    },
+    {
+      "folderName": "Hell or High Water",
+      "russianTitle": "Любой ценой",
+      "englishTitle": "Hell or High Water"
+    },
+    {
+      "folderName": "Inherent Vice",
+      "russianTitle": "Врождённый порок",
+      "englishTitle": "Inherent Vice"
+    },
+    {
+      "folderName": "Into the Woods",
+      "russianTitle": "Чем дальше в лес",
+      "englishTitle": "Into the Woods"
+    },
+    {
+      "folderName": "Iron Man",
+      "russianTitle": "Железный человек",
+      "englishTitle": "Iron Man"
+    },
+    {
+      "folderName": "J. Edgar",
+      "russianTitle": "Дж. Эдгар",
+      "englishTitle": "J. Edgar"
+    },
+    {
+      "folderName": "Jack the Giant Slayer",
+      "russianTitle": "Джек — покоритель великанов",
+      "englishTitle": "Jack the Giant Slayer"
+    },
+    {
+      "folderName": "Jungle Cruise",
+      "russianTitle": "Круиз по джунглям",
+      "englishTitle": "Jungle Cruise"
+    },
+    {
+      "folderName": "Killers of the Flower Moon",
+      "russianTitle": "Убийцы цветочной луны",
+      "englishTitle": "Killers of the Flower Moon"
+    },
+    {
+      "folderName": "Kingdom of the Planet of the Apes",
+      "russianTitle": "Планета обезьян: Новое царство",
+      "englishTitle": "Kingdom of the Planet of the Apes"
+    },
+    {
+      "folderName": "Kong_ Skull Island",
+      "russianTitle": "Конг: Остров черепа",
+      "englishTitle": "Kong: Skull Island"
+    },
+    {
+      "folderName": "Les Miserables",
+      "russianTitle": "Отверженные",
+      "englishTitle": "Les Misérables"
+    },
+    {
+      "folderName": "Licorice Pizza",
+      "russianTitle": "Лакричная пицца",
+      "englishTitle": "Licorice Pizza"
+    },
+    {
+      "folderName": "Lightyear",
+      "russianTitle": "Базз Лайтер",
+      "englishTitle": "Lightyear"
+    },
+    {
+      "folderName": "Logan",
+      "russianTitle": "Логан",
+      "englishTitle": "Logan"
+    },
+    {
+      "folderName": "Luca",
+      "russianTitle": "Лука",
+      "englishTitle": "Luca"
+    },
+    {
+      "folderName": "Maleficent",
+      "russianTitle": "Малефисента",
+      "englishTitle": "Maleficent"
+    },
+    {
+      "folderName": "Mary Poppins Returns",
+      "russianTitle": "Мэри Поппинс возвращается",
+      "englishTitle": "Mary Poppins Returns"
+    },
+    {
+      "folderName": "Moulin Rouge!",
+      "russianTitle": "Мулен Руж!",
+      "englishTitle": "Moulin Rouge!"
+    },
+    {
+      "folderName": "Mystic River",
+      "russianTitle": "Таинственная река",
+      "englishTitle": "Mystic River"
+    },
+    {
+      "folderName": "Napoleon",
+      "russianTitle": "Наполеон",
+      "englishTitle": "Napoleon"
+    },
+    {
+      "folderName": "Nightcrawler",
+      "russianTitle": "Стрингер",
+      "englishTitle": "Nightcrawler"
+    },
+    {
+      "folderName": "Nope",
+      "russianTitle": "Нет",
+      "englishTitle": "Nope"
+    },
+    {
+      "folderName": "Onward",
+      "russianTitle": "Вперёд",
+      "englishTitle": "Onward"
+    },
+    {
+      "folderName": "Operation Fortune Ruse de Guerre",
+      "russianTitle": "Операция «Фортуна»: Искусство побеждать",
+      "englishTitle": "Operation Fortune: Ruse de Guerre"
+    },
+    {
+      "folderName": "Oppenheimer",
+      "russianTitle": "Оппенгеймер",
+      "englishTitle": "Oppenheimer"
+    },
+    {
+      "folderName": "Oz the Great and Powerful",
+      "russianTitle": "Оз: Великий и Ужасный",
+      "englishTitle": "Oz the Great and Powerful"
+    },
+    {
+      "folderName": "Pan",
+      "russianTitle": "Пэн: Путешествие в Нетландию",
+      "englishTitle": "Pan"
+    },
+    {
+      "folderName": "Peter Pan & Wendy",
+      "russianTitle": "Питер Пэн и Венди",
+      "englishTitle": "Peter Pan & Wendy"
+    },
+    {
+      "folderName": "Phantom Thread",
+      "russianTitle": "Призрачная нить",
+      "englishTitle": "Phantom Thread"
+    },
+    {
+      "folderName": "Pinocchio",
+      "russianTitle": "Пиноккио",
+      "englishTitle": "Pinocchio"
+    },
+    {
+      "folderName": "Predator",
+      "russianTitle": "Хищник",
+      "englishTitle": "Predator"
+    },
+    {
+      "folderName": "Project Power",
+      "russianTitle": "Проект «Сила»",
+      "englishTitle": "Project Power"
+    },
+    {
+      "folderName": "Raya and the Last Dragon",
+      "russianTitle": "Райя и последний дракон",
+      "englishTitle": "Raya and the Last Dragon"
+    },
+    {
+      "folderName": "Ready Player One",
+      "russianTitle": "Первому игроку приготовиться",
+      "englishTitle": "Ready Player One"
+    },
+    {
+      "folderName": "Rebel Moon",
+      "russianTitle": "Мятежная луна",
+      "englishTitle": "Rebel Moon"
+    },
+    {
+      "folderName": "Red Notice",
+      "russianTitle": "Красное уведомление",
+      "englishTitle": "Red Notice"
+    },
+    {
+      "folderName": "Richard Jewell",
+      "russianTitle": "Ричард Джуэлл",
+      "englishTitle": "Richard Jewell"
+    },
+    {
+      "folderName": "Shazam!",
+      "russianTitle": "Шазам!",
+      "englishTitle": "Shazam!"
+    },
+    {
+      "folderName": "Soul",
+      "russianTitle": "Душа",
+      "englishTitle": "Soul"
+    },
+    {
+      "folderName": "Spider-Man",
+      "russianTitle": "Человек-паук",
+      "englishTitle": "Spider-Man"
+    },
+    {
+      "folderName": "Star Wars The Empire Strikes Back",
+      "russianTitle": "Звёздные войны: Империя наносит ответный удар",
+      "englishTitle": "Star Wars The Empire Strikes Back"
+    },
+    {
+      "folderName": "Star Wars The Rise of Skywalker",
+      "russianTitle": "Звёздные войны: Скайуокер. Восход",
+      "englishTitle": "Star Wars The Rise of Skywalker"
+    },
+    {
+      "folderName": "Sully",
+      "russianTitle": "Салли",
+      "englishTitle": "Sully"
+    },
+    {
+      "folderName": "The Adam Project",
+      "russianTitle": "Проект «Адам»",
+      "englishTitle": "The Adam Project"
+    },
+    {
+      "folderName": "The Batman",
+      "russianTitle": "Бэтмен",
+      "englishTitle": "The Batman"
+    },
+    {
+      "folderName": "The Covenant",
+      "russianTitle": "Переводчик",
+      "englishTitle": "The Covenant"
+    },
+    {
+      "folderName": "The Creator",
+      "russianTitle": "Создатель",
+      "englishTitle": "The Creator"
+    },
+    {
+      "folderName": "The Fly",
+      "russianTitle": "Муха",
+      "englishTitle": "The Fly"
+    },
+    {
+      "folderName": "The Gentlemen",
+      "russianTitle": "Джентльмены",
+      "englishTitle": "The Gentlemen"
+    },
+    {
+      "folderName": "The Greatest Showman",
+      "russianTitle": "Величайший шоумен",
+      "englishTitle": "The Greatest Showman"
+    },
+    {
+      "folderName": "The Irishman",
+      "russianTitle": "Ирландец",
+      "englishTitle": "The Irishman"
+    },
+    {
+      "folderName": "The Lion King",
+      "russianTitle": "Король Лев",
+      "englishTitle": "The Lion King"
+    },
+    {
+      "folderName": "The Little Mermaid",
+      "russianTitle": "Русалочка",
+      "englishTitle": "The Little Mermaid"
+    },
+    {
+      "folderName": "The Master",
+      "russianTitle": "Мастер",
+      "englishTitle": "The Master"
+    },
+    {
+      "folderName": "The Mule",
+      "russianTitle": "Наркокурьер",
+      "englishTitle": "The Mule"
+    },
+    {
+      "folderName": "The Old Guard",
+      "russianTitle": "Бессмертная гвардия",
+      "englishTitle": "The Old Guard"
+    },
+    {
+      "folderName": "The Power of the Dog",
+      "russianTitle": "Власть пса",
+      "englishTitle": "The Power of the Dog"
+    },
+    {
+      "folderName": "The Royal Tenenbaums",
+      "russianTitle": "Семейка Тененбаум",
+      "englishTitle": "The Royal Tenenbaums"
+    },
+    {
+      "folderName": "The Suicide Squad",
+      "russianTitle": "Отряд самоубийц: Миссия навылет",
+      "englishTitle": "The Suicide Squad"
+    },
+    {
+      "folderName": "The Tomorrow War",
+      "russianTitle": "Война будущего",
+      "englishTitle": "The Tomorrow War"
+    },
+    {
+      "folderName": "The Town",
+      "russianTitle": "Город",
+      "englishTitle": "The Town"
+    },
+    {
+      "folderName": "Turning Red",
+      "russianTitle": "Я краснею",
+      "englishTitle": "Turning Red"
+    },
+    {
+      "folderName": "West Side Story",
+      "russianTitle": "Вестсайдская история",
+      "englishTitle": "West Side Story"
+    },
+    {
+      "folderName": "Wind River",
+      "russianTitle": "Ветреная река",
+      "englishTitle": "Wind River"
+    },
+    {
+      "folderName": "Wonder Woman",
+      "russianTitle": "Чудо-женщина",
+      "englishTitle": "Wonder Woman"
+    },
+    {
+      "folderName": "Wrath of Man",
+      "russianTitle": "Гнев человеческий",
+      "englishTitle": "Wrath of Man"
+    },
+    {
+      "folderName": "Zack Snyder's Justice League",
+      "russianTitle": "Лига справедливости Зака Снайдера",
+      "englishTitle": "Zack Snyder's Justice League"
+    },
+    {
+      "folderName": "2001 A Space Odyssey",
+      "russianTitle": "Космическая одиссея 2001 года",
+      "englishTitle": "2001: A Space Odyssey"
+    },
+    {
+      "folderName": "3 Idiots",
+      "russianTitle": "3 идиота",
+      "englishTitle": "3 Idiots"
+    },
+    {
+      "folderName": "A Clockwork Orange",
+      "russianTitle": "Заводной апельсин",
+      "englishTitle": "A Clockwork Orange"
+    },
+    {
+      "folderName": "Adaptation",
+      "russianTitle": "Адаптация",
+      "englishTitle": "Adaptation."
+    },
+    {
+      "folderName": "Akira",
+      "russianTitle": "Акира",
+      "englishTitle": "Akira"
+    },
+    {
+      "folderName": "Aliens",
+      "russianTitle": "Чужие",
+      "englishTitle": "Aliens"
+    },
+    {
+      "folderName": "An American Werewolf in London",
+      "russianTitle": "Американский оборотень в Лондоне",
+      "englishTitle": "An American Werewolf in London"
+    },
+    {
+      "folderName": "Angels and Demons",
+      "russianTitle": "Ангелы и демоны",
+      "englishTitle": "Angels & Demons"
+    },
+    {
+      "folderName": "Apocalypse Now",
+      "russianTitle": "Апокалипсис сегодня",
+      "englishTitle": "Apocalypse Now"
+    },
+    {
+      "folderName": "Asteroid City",
+      "russianTitle": "Город астероидов",
+      "englishTitle": "Asteroid City"
+    },
+    {
+      "folderName": "Batman Begins",
+      "russianTitle": "Бэтмен: Начало",
+      "englishTitle": "Batman Begins"
+    },
+    {
+      "folderName": "Being John Malkovich",
+      "russianTitle": "Быть Джоном Малковичем",
+      "englishTitle": "Being John Malkovich"
+    },
+    {
+      "folderName": "Black Swan",
+      "russianTitle": "Чёрный лебедь",
+      "englishTitle": "Black Swan"
+    },
+    {
+      "folderName": "Blood Simple",
+      "russianTitle": "Просто кровь",
+      "englishTitle": "Blood Simple"
+    },
+    {
+      "folderName": "Bolt",
+      "russianTitle": "Вольт",
+      "englishTitle": "Bolt"
+    },
+    {
+      "folderName": "Bonnie and Clyde",
+      "russianTitle": "Бонни и Клайд",
+      "englishTitle": "Bonnie and Clyde"
+    },
+    {
+      "folderName": "Boogie Nights",
+      "russianTitle": "Ночи в стиле буги",
+      "englishTitle": "Boogie Nights"
+    },
+    {
+      "folderName": "Casino Royale",
+      "russianTitle": "Казино «Рояль»",
+      "englishTitle": "Casino Royale"
+    },
+    {
+      "folderName": "Cinderella Man",
+      "russianTitle": "Нокдаун",
+      "englishTitle": "Cinderella Man"
+    },
+    {
+      "folderName": "Close Encounters of the Third Kind",
+      "russianTitle": "Близкие контакты третьей степени",
+      "englishTitle": "Close Encounters of the Third Kind"
+    },
+    {
+      "folderName": "Crouching Tiger Hidden Dragon",
+      "russianTitle": "Крадущийся тигр, затаившийся дракон",
+      "englishTitle": "Crouching Tiger, Hidden Dragon"
+    },
+    {
+      "folderName": "Dodgeball",
+      "russianTitle": "Вышибалы",
+      "englishTitle": "Dodgeball: A True Underdog Story"
+    },
+    {
+      "folderName": "Double Impact",
+      "russianTitle": "Двойной удар",
+      "englishTitle": "Double Impact"
+    },
+    {
+      "folderName": "Drive My Car",
+      "russianTitle": "Сядь за руль моей машины",
+      "englishTitle": "Drive My Car"
+    },
+    {
+      "folderName": "Dune",
+      "russianTitle": "Дюна",
+      "englishTitle": "Dune"
+    },
+    {
+      "folderName": "Eternal Sunshine of the Spotless Mind",
+      "russianTitle": "Вечное сияние чистого разума",
+      "englishTitle": "Eternal Sunshine of the Spotless Mind"
+    },
+    {
+      "folderName": "Extraction 2",
+      "russianTitle": "Тайлер Рейк: Операция по спасению 2",
+      "englishTitle": "Extraction 2"
+    },
+    {
+      "folderName": "Fantastic Mr Fox",
+      "russianTitle": "Бесподобный мистер Фокс",
+      "englishTitle": "Fantastic Mr. Fox"
+    },
+    {
+      "folderName": "Fargo",
+      "russianTitle": "Фарго",
+      "englishTitle": "Fargo"
+    },
+    {
+      "folderName": "Finding Nemo",
+      "russianTitle": "В поисках Немо",
+      "englishTitle": "Finding Nemo"
+    },
+    {
+      "folderName": "Ghost in the Shell",
+      "russianTitle": "Призрак в доспехах",
+      "englishTitle": "Ghost in the Shell"
+    },
+    {
+      "folderName": "Ghostbusters",
+      "russianTitle": "Охотники за привидениями",
+      "englishTitle": "Ghostbusters"
+    },
+    {
+      "folderName": "Glass",
+      "russianTitle": "Стекло",
+      "englishTitle": "Glass"
+    },
+    {
+      "folderName": "Godzilla Minus One",
+      "russianTitle": "Годзилла минус один",
+      "englishTitle": "Godzilla Minus One"
+    },
+    {
+      "folderName": "Gone",
+      "russianTitle": "Исчезнувшая",
+      "englishTitle": "Gone"
+    },
+    {
+      "folderName": "Gravity",
+      "russianTitle": "Гравитация",
+      "englishTitle": "Gravity"
+    },
+    {
+      "folderName": "Green Book",
+      "russianTitle": "Зелёная книга",
+      "englishTitle": "Green Book"
+    },
+    {
+      "folderName": "Gremlins",
+      "russianTitle": "Гремлины",
+      "englishTitle": "Gremlins"
+    },
+    {
+      "folderName": "Groundhog Day",
+      "russianTitle": "День сурка",
+      "englishTitle": "Groundhog Day"
+    },
+    {
+      "folderName": "Hero",
+      "russianTitle": "Герой",
+      "englishTitle": "Hero"
+    },
+    {
+      "folderName": "Isle of Dogs",
+      "russianTitle": "Остров собак",
+      "englishTitle": "Isle of Dogs"
+    },
+    {
+      "folderName": "Lagaan",
+      "russianTitle": "Лагаан: Однажды в Индии",
+      "englishTitle": "Lagaan"
+    },
+    {
+      "folderName": "Law Abiding Citizen",
+      "russianTitle": "Законопослушный гражданин",
+      "englishTitle": "Law Abiding Citizen"
+    },
+    {
+      "folderName": "Magnolia",
+      "russianTitle": "Магнолия",
+      "englishTitle": "Magnolia"
+    },
+    {
+      "folderName": "Memories of Murder",
+      "russianTitle": "Воспоминания об убийстве",
+      "englishTitle": "Memories of Murder"
+    },
+    {
+      "folderName": "Miller's Crossing",
+      "russianTitle": "Перекрёсток Миллера",
+      "englishTitle": "Miller's Crossing"
+    },
+    {
+      "folderName": "Million Dollar Baby",
+      "russianTitle": "Малышка на миллион",
+      "englishTitle": "Million Dollar Baby"
+    },
+    {
+      "folderName": "Moneyball",
+      "russianTitle": "Человек, который изменил всё",
+      "englishTitle": "Moneyball"
+    },
+    {
+      "folderName": "Noah",
+      "russianTitle": "Ной",
+      "englishTitle": "Noah"
+    },
+    {
+      "folderName": "O Brother Where Art Thou",
+      "russianTitle": "О, где же ты, брат?",
+      "englishTitle": "O Brother, Where Art Thou?"
+    },
+    {
+      "folderName": "Oldboy",
+      "russianTitle": "Олдбой",
+      "englishTitle": "Oldboy"
+    },
+    {
+      "folderName": "One Flew Over the Cuckoo's Nest",
+      "russianTitle": "Пролетая над гнездом кукушки",
+      "englishTitle": "One Flew Over the Cuckoo's Nest"
+    },
+    {
+      "folderName": "Patriot Games",
+      "russianTitle": "Игры патриотов",
+      "englishTitle": "Patriot Games"
+    },
+    {
+      "folderName": "Princess Mononoke",
+      "russianTitle": "Принцесса Мононоке",
+      "englishTitle": "Princess Mononoke"
+    },
+    {
+      "folderName": "Psycho",
+      "russianTitle": "Психо",
+      "englishTitle": "Psycho"
+    },
+    {
+      "folderName": "Raging Bull",
+      "russianTitle": "Бешеный бык",
+      "englishTitle": "Raging Bull"
+    },
+    {
+      "folderName": "Rear Window",
+      "russianTitle": "Окно во двор",
+      "englishTitle": "Rear Window"
+    },
+    {
+      "folderName": "RoboCop",
+      "russianTitle": "Робокоп",
+      "englishTitle": "RoboCop"
+    },
+    {
+      "folderName": "Rosemary's Baby",
+      "russianTitle": "Ребёнок Розмари",
+      "englishTitle": "Rosemary's Baby"
+    },
+    {
+      "folderName": "Rushmore",
+      "russianTitle": "Академия Рашмор",
+      "englishTitle": "Rushmore"
+    },
+    {
+      "folderName": "Shoplifters",
+      "russianTitle": "Магазинные воришки",
+      "englishTitle": "Shoplifters"
+    },
+    {
+      "folderName": "Signs",
+      "russianTitle": "Знаки",
+      "englishTitle": "Signs"
+    },
+    {
+      "folderName": "Sinister",
+      "russianTitle": "Синистер",
+      "englishTitle": "Sinister"
+    },
+    {
+      "folderName": "Skyfall",
+      "russianTitle": "007: Координаты «Скайфолл»",
+      "englishTitle": "Skyfall"
+    },
+    {
+      "folderName": "Snowpiercer",
+      "russianTitle": "Сквозь снег",
+      "englishTitle": "Snowpiercer"
+    },
+    {
+      "folderName": "Spirited Away",
+      "russianTitle": "Унесённые призраками",
+      "englishTitle": "Spirited Away"
+    },
+    {
+      "folderName": "Star Wars Return of the Jedi",
+      "russianTitle": "Звёздные войны: Возвращение джедая",
+      "englishTitle": "Star Wars Return of the Jedi"
+    },
+    {
+      "folderName": "Star Wars The Last Jedi",
+      "russianTitle": "Звёздные войны: Последние джедаи",
+      "englishTitle": "Star Wars The Last Jedi"
+    },
+    {
+      "folderName": "Step Up",
+      "russianTitle": "Шаг вперёд",
+      "englishTitle": "Step Up"
+    },
+    {
+      "folderName": "Taxi Driver",
+      "russianTitle": "Таксист",
+      "englishTitle": "Taxi Driver"
+    },
+    {
+      "folderName": "The Big Short",
+      "russianTitle": "Игра на понижение",
+      "englishTitle": "The Big Short"
+    },
+    {
+      "folderName": "The Bourne Supremacy",
+      "russianTitle": "Превосходство Борна",
+      "englishTitle": "The Bourne Supremacy"
+    },
+    {
+      "folderName": "The Da Vinci Code",
+      "russianTitle": "Код да Винчи",
+      "englishTitle": "The Da Vinci Code"
+    },
+    {
+      "folderName": "The Deer Hunter",
+      "russianTitle": "Охотник на оленей",
+      "englishTitle": "The Deer Hunter"
+    },
+    {
+      "folderName": "The Equalizer",
+      "russianTitle": "Великий уравнитель",
+      "englishTitle": "The Equalizer"
+    },
+    {
+      "folderName": "The Fighter",
+      "russianTitle": "Боец",
+      "englishTitle": "The Fighter"
+    },
+    {
+      "folderName": "The Godfather Part II",
+      "russianTitle": "Крёстный отец 2",
+      "englishTitle": "The Godfather Part II"
+    },
+    {
+      "folderName": "The Gray Man",
+      "russianTitle": "Серый человек",
+      "englishTitle": "The Gray Man"
+    },
+    {
+      "folderName": "The Handmaiden",
+      "russianTitle": "Служанка",
+      "englishTitle": "The Handmaiden"
+    },
+    {
+      "folderName": "The Hunt for Red October",
+      "russianTitle": "Охота за «Красным октябрём»",
+      "englishTitle": "The Hunt for Red October"
+    },
+    {
+      "folderName": "The King's Speech",
+      "russianTitle": "Король говорит!",
+      "englishTitle": "The King's Speech"
+    },
+    {
+      "folderName": "The Martian",
+      "russianTitle": "Марсианин",
+      "englishTitle": "The Martian"
+    },
+    {
+      "folderName": "The Mask",
+      "russianTitle": "Маска",
+      "englishTitle": "The Mask"
+    },
+    {
+      "folderName": "The Omen",
+      "russianTitle": "Омен",
+      "englishTitle": "The Omen"
+    },
+    {
+      "folderName": "The Others",
+      "russianTitle": "Другие",
+      "englishTitle": "The Others"
+    },
+    {
+      "folderName": "The Ring",
+      "russianTitle": "Звонок",
+      "englishTitle": "The Ring"
+    },
+    {
+      "folderName": "The Shining",
+      "russianTitle": "Сияние",
+      "englishTitle": "The Shining"
+    },
+    {
+      "folderName": "The Social Network",
+      "russianTitle": "Социальная сеть",
+      "englishTitle": "The Social Network"
+    },
+    {
+      "folderName": "The Terminator",
+      "russianTitle": "Терминатор",
+      "englishTitle": "The Terminator"
+    },
+    {
+      "folderName": "The Thing",
+      "russianTitle": "Нечто",
+      "englishTitle": "The Thing"
+    },
+    {
+      "folderName": "The Wandering Earth",
+      "russianTitle": "Блуждающая Земля",
+      "englishTitle": "The Wandering Earth"
+    },
+    {
+      "folderName": "The Witch",
+      "russianTitle": "Ведьма",
+      "englishTitle": "The Witch"
+    },
+    {
+      "folderName": "The Wizard of Oz",
+      "russianTitle": "Волшебник страны Оз",
+      "englishTitle": "The Wizard of Oz"
+    },
+    {
+      "folderName": "The Wrestler",
+      "russianTitle": "Рестлер",
+      "englishTitle": "The Wrestler"
+    },
+    {
+      "folderName": "Total Recall",
+      "russianTitle": "Вспомнить всё",
+      "englishTitle": "Total Recall"
+    },
+    {
+      "folderName": "Unbreakable",
+      "russianTitle": "Неуязвимый",
+      "englishTitle": "Unbreakable"
+    },
+    {
+      "folderName": "War of the Worlds",
+      "russianTitle": "Война миров",
+      "englishTitle": "War of the Worlds"
+    },
+    {
+      "folderName": "Whiplash",
+      "russianTitle": "Одержимость",
+      "englishTitle": "Whiplash"
+    },
+    {
+      "folderName": "Who Framed Roger Rabbit",
+      "russianTitle": "Кто подставил кролика Роджера",
+      "englishTitle": "Who Framed Roger Rabbit"
+    },
+    {
+      "folderName": "Your Name",
+      "russianTitle": "Твоё имя",
+      "englishTitle": "Your Name"
+    }
   ]
 }
